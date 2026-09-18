@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Segment,Region,State,Category,Sub-Category,Product Name,Quantity,Sales,Discount,Profit
+ORD10001,2025-01-30,Customer 233,Home Office,North,Delhi,Office Supplies,Pen,Pen 149,2,1235.49,0.0,197.32
+ORD10002,2025-10-17,Customer 32,Consumer,West,Mumbai,Furniture,Table,Table 528,2,376.18,0.3,55.43
+ORD10003,2025-10-20,Customer 79,Home Office,East,Hyderabad,Furniture,Chair,Chair 147,3,448.62,0.05,92.96
+ORD10004,2025-10-16,Customer 16,Home Office,West,Mumbai,Technology,Monitor,Monitor 754,4,571.15,0.3,133.44
+ORD10005,2025-05-08,Customer 204,Consumer,West,Pune,Technology,Monitor,Monitor 537,6,709.09,0.2,98.19
+ORD10006,2025-02-07,Customer 31,Home Office,West,Mumbai,Technology,Phone,Phone 637,8,1315.2,0.2,153.06
+ORD10007,2025-10-21,Customer 203,Corporate,South,Bengaluru,Office Supplies,Paper,Paper 600,7,78.03,0.0,21.8
+ORD10008,2025-08-31,Customer 179,Home Office,North,Noida,Technology,Phone,Phone 693,8,121.77,0.0,40.6
+ORD10009,2025-06-27,Customer 6,Corporate,East,Chennai,Technology,Monitor,Monitor 417,8,441.2,0.2,130.64
+ORD10010,2025-05-07,Customer 102,Corporate,North,Delhi,Technology,Laptop,Laptop 605,1,342.95,0.1,27.03
+ORD10011,2025-05-23,Customer 181,Corporate,South,Bengaluru,Furniture,Table,Table 511,5,1327.41,0.2,383.88
+ORD10012,2025-10-29,Customer 47,Corporate,North,Noida,Furniture,Chair,Chair 184,3,243.92,0.05,11.86
+ORD10013,2025-12-20,Customer 220,Home Office,North,Delhi,Furniture,Table,Table 647,6,922.52,0.1,300.68
+ORD10014,2025-07-25,Customer 16,Consumer,East,Hyderabad,Technology,Monitor,Monitor 501,7,610.49,0.0,118.71
+ORD10015,2025-03-19,Customer 138,Consumer,East,Chennai,Office Supplies,Paper,Paper 212,6,909.08,0.0,45.52
+ORD10016,2025-11-05,Customer 94,Corporate,North,Delhi,Furniture,Chair,Chair 728,7,239.85,0.1,78.34
+ORD10017,2025-06-25,Customer 190,Corporate,East,Chennai,Office Supplies,Binder,Binder 591,8,481.54,0.05,36.43
+ORD10018,2025-09-28,Customer 77,Home Office,South,Bengaluru,Technology,Laptop,Laptop 310,6,236.97,0.3,69.73
+ORD10019,2025-09-15,Customer 85,Home Office,East,Hyderabad,Technology,Phone,Phone 271,6,1162.47,0.3,212.12
+ORD10020,2025-01-15,Customer 8,Corporate,West,Mumbai,Furniture,Table,Table 857,4,315.88,0.2,43.17
+ORD10021,2025-07-06,Customer 21,Consumer,South,Kochi,Furniture,Bookcase,Bookcase 719,6,681.9,0.1,222.64
+ORD10022,2025-09-03,Customer 233,Home Office,East,Chennai,Office Supplies,Paper,Paper 445,4,734.33,0.3,199.83
+ORD10023,2025-11-22,Customer 86,Consumer,North,Delhi,Technology,Laptop,Laptop 497,4,727.49,0.05,127.44
+ORD10024,2025-10-30,Customer 232,Corporate,South,Kochi,Office Supplies,Pen,Pen 186,3,271.61,0.05,14.47
+ORD10025,2025-03-13,Customer 112,Consumer,West,Pune,Technology,Phone,Phone 259,3,51.67,0.0,10.75
+ORD10026,2025-08-03,Customer 214,Consumer,West,Mumbai,Office Supplies,Paper,Paper 399,4,1150.25,0.1,135.51
+ORD10027,2025-03-19,Customer 135,Home Office,East,Hyderabad,Office Supplies,Pen,Pen 697,7,1244.17,0.3,73.69
+ORD10028,2025-03-03,Customer 143,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 104,3,275.07,0.2,59.34
+ORD10029,2025-09-17,Customer 116,Home Office,North,Noida,Furniture,Bookcase,Bookcase 158,4,303.13,0.0,85.39
+ORD10030,2025-09-02,Customer 130,Consumer,East,Chennai,Office Supplies,Binder,Binder 727,4,1045.24,0.2,190.7
+ORD10031,2025-05-04,Customer 110,Consumer,North,Delhi,Office Supplies,Paper,Paper 526,2,600.7,0.1,37.1
+ORD10032,2025-04-23,Customer 192,Consumer,West,Pune,Furniture,Chair,Chair 833,6,231.61,0.05,77.65
+ORD10033,2025-07-26,Customer 87,Corporate,South,Kochi,Furniture,Bookcase,Bookcase 952,4,258.97,0.2,85.0
+ORD10034,2025-12-27,Customer 5,Corporate,West,Pune,Office Supplies,Paper,Paper 839,6,48.83,0.3,7.7
+ORD10035,2025-05-20,Customer 11,Consumer,North,Noida,Technology,Laptop,Laptop 215,4,1458.11,0.0,109.68
+ORD10036,2025-10-20,Customer 127,Home Office,North,Delhi,Office Supplies,Pen,Pen 938,5,620.8,0.3,183.6
+ORD10037,2025-01-09,Customer 163,Consumer,North,Delhi,Office Supplies,Paper,Paper 918,3,649.47,0.0,84.87
+ORD10038,2025-10-11,Customer 107,Corporate,North,Delhi,Technology,Laptop,Laptop 168,5,1296.91,0.2,43.4
+ORD10039,2025-04-14,Customer 239,Corporate,West,Mumbai,Technology,Monitor,Monitor 344,2,1454.43,0.1,80.16
+ORD10040,2025-01-19,Customer 4,Consumer,North,Delhi,Office Supplies,Binder,Binder 612,3,420.37,0.0,146.44
+ORD10041,2025-07-21,Customer 249,Home Office,West,Pune,Furniture,Table,Table 208,7,991.63,0.3,268.12
+ORD10042,2025-03-08,Customer 4,Consumer,North,Delhi,Furniture,Table,Table 303,3,618.95,0.1,207.08
+ORD10043,2025-12-21,Customer 76,Consumer,North,Noida,Furniture,Chair,Chair 186,7,1308.4,0.1,287.37
+ORD10044,2025-10-08,Customer 83,Consumer,South,Bengaluru,Furniture,Table,Table 556,1,409.6,0.1,135.9
+ORD10045,2025-09-15,Customer 168,Consumer,East,Hyderabad,Furniture,Table,Table 287,1,516.29,0.0,99.33
+ORD10046,2025-01-12,Customer 77,Corporate,West,Mumbai,Furniture,Table,Table 936,2,232.92,0.3,7.57
+ORD10047,2025-06-16,Customer 185,Corporate,West,Mumbai,Technology,Monitor,Monitor 973,3,993.16,0.3,135.92
+ORD10048,2025-12-25,Customer 208,Home Office,West,Pune,Technology,Monitor,Monitor 758,3,84.81,0.3,17.66
+ORD10049,2025-07-04,Customer 246,Consumer,West,Mumbai,Technology,Monitor,Monitor 917,4,145.94,0.0,13.12
+ORD10050,2025-01-02,Customer 117,Consumer,South,Kochi,Technology,Laptop,Laptop 742,1,946.82,0.05,181.59
+ORD10051,2025-04-16,Customer 60,Home Office,East,Chennai,Technology,Monitor,Monitor 585,5,1217.64,0.1,134.47
+ORD10052,2025-04-12,Customer 20,Home Office,South,Kochi,Office Supplies,Paper,Paper 590,5,1155.12,0.3,242.39
+ORD10053,2025-02-01,Customer 125,Corporate,West,Pune,Office Supplies,Pen,Pen 861,5,939.3,0.05,45.78
+ORD10054,2025-10-09,Customer 52,Corporate,East,Chennai,Technology,Phone,Phone 397,5,707.7,0.2,184.11
+ORD10055,2025-07-18,Customer 54,Consumer,East,Hyderabad,Furniture,Table,Table 569,2,1233.45,0.2,404.81
+ORD10056,2025-11-20,Customer 131,Corporate,East,Chennai,Furniture,Bookcase,Bookcase 636,5,1430.06,0.05,323.21
+ORD10057,2025-09-09,Customer 175,Corporate,East,Hyderabad,Furniture,Table,Table 997,8,603.24,0.05,27.8
+ORD10058,2025-01-01,Customer 84,Corporate,South,Kochi,Technology,Laptop,Laptop 526,6,576.64,0.0,174.19
+ORD10059,2025-10-29,Customer 20,Corporate,South,Bengaluru,Furniture,Bookcase,Bookcase 112,5,394.75,0.0,66.27
+ORD10060,2025-03-18,Customer 64,Corporate,South,Kochi,Furniture,Table,Table 204,1,1255.32,0.1,289.34
+ORD10061,2025-10-11,Customer 141,Consumer,South,Kochi,Furniture,Table,Table 903,7,1328.71,0.2,403.96
+ORD10062,2025-10-09,Customer 33,Consumer,East,Chennai,Technology,Phone,Phone 561,3,973.85,0.1,180.82
+ORD10063,2025-05-03,Customer 78,Corporate,South,Kochi,Office Supplies,Binder,Binder 404,5,1113.77,0.1,180.28
+ORD10064,2025-08-20,Customer 233,Corporate,South,Bengaluru,Furniture,Bookcase,Bookcase 265,2,327.65,0.2,63.93
+ORD10065,2025-06-13,Customer 62,Corporate,South,Kochi,Furniture,Bookcase,Bookcase 297,4,154.26,0.1,31.9
+ORD10066,2025-05-19,Customer 87,Consumer,North,Delhi,Furniture,Bookcase,Bookcase 991,7,586.6,0.3,48.69
+ORD10067,2025-11-27,Customer 115,Corporate,South,Kochi,Technology,Phone,Phone 228,4,157.05,0.05,25.19
+ORD10068,2025-07-20,Customer 239,Home Office,North,Delhi,Furniture,Chair,Chair 535,8,1453.06,0.2,43.67
+ORD10069,2025-12-25,Customer 166,Corporate,South,Kochi,Furniture,Chair,Chair 329,3,245.06,0.0,81.47
+ORD10070,2025-11-17,Customer 65,Home Office,East,Chennai,Furniture,Chair,Chair 338,1,975.35,0.1,320.63
+ORD10071,2025-01-01,Customer 3,Home Office,South,Bengaluru,Furniture,Chair,Chair 407,4,594.36,0.05,167.7
+ORD10072,2025-01-15,Customer 246,Corporate,North,Noida,Office Supplies,Binder,Binder 760,4,723.45,0.05,151.27
+ORD10073,2025-07-09,Customer 59,Corporate,North,Delhi,Furniture,Chair,Chair 610,7,140.02,0.05,34.33
+ORD10074,2025-09-16,Customer 18,Consumer,East,Hyderabad,Technology,Phone,Phone 471,7,313.16,0.1,81.97
+ORD10075,2025-11-16,Customer 127,Home Office,South,Bengaluru,Office Supplies,Paper,Paper 336,8,347.74,0.1,25.28
+ORD10076,2025-01-28,Customer 55,Consumer,West,Mumbai,Office Supplies,Binder,Binder 781,1,1424.17,0.05,457.98
+ORD10077,2025-02-10,Customer 239,Consumer,West,Pune,Furniture,Bookcase,Bookcase 161,3,602.12,0.1,156.44
+ORD10078,2025-06-19,Customer 114,Consumer,North,Delhi,Furniture,Bookcase,Bookcase 637,8,67.2,0.2,18.93
+ORD10079,2025-04-17,Customer 98,Corporate,East,Chennai,Furniture,Table,Table 182,6,641.87,0.0,140.15
+ORD10080,2025-04-09,Customer 83,Corporate,North,Noida,Furniture,Chair,Chair 822,8,309.66,0.3,91.61
+ORD10081,2025-02-01,Customer 66,Consumer,South,Bengaluru,Technology,Phone,Phone 353,7,80.16,0.0,15.17
+ORD10082,2025-06-02,Customer 1,Home Office,East,Hyderabad,Office Supplies,Binder,Binder 443,1,408.02,0.1,129.45
+ORD10083,2025-08-09,Customer 209,Corporate,East,Chennai,Furniture,Chair,Chair 586,8,1431.79,0.2,382.2
+ORD10084,2025-06-17,Customer 221,Corporate,West,Pune,Furniture,Chair,Chair 921,5,1237.68,0.05,281.17
+ORD10085,2025-02-03,Customer 167,Consumer,South,Kochi,Technology,Laptop,Laptop 624,4,599.69,0.05,71.48
+ORD10086,2025-08-04,Customer 128,Home Office,South,Kochi,Furniture,Table,Table 207,2,412.04,0.0,46.36
+ORD10087,2025-12-07,Customer 195,Consumer,South,Bengaluru,Furniture,Chair,Chair 526,8,938.06,0.05,252.71
+ORD10088,2025-05-07,Customer 48,Consumer,North,Noida,Office Supplies,Pen,Pen 374,6,396.0,0.1,39.5
+ORD10089,2025-09-17,Customer 135,Consumer,West,Mumbai,Office Supplies,Pen,Pen 292,6,115.91,0.1,39.15
+ORD10090,2025-07-11,Customer 11,Corporate,East,Hyderabad,Furniture,Chair,Chair 104,8,1326.58,0.05,394.22
+ORD10091,2025-04-02,Customer 115,Home Office,West,Mumbai,Furniture,Chair,Chair 714,4,1396.66,0.1,270.67
+ORD10092,2025-01-23,Customer 53,Corporate,North,Delhi,Furniture,Bookcase,Bookcase 710,6,342.12,0.1,48.58
+ORD10093,2025-01-17,Customer 204,Corporate,East,Chennai,Furniture,Table,Table 518,6,294.01,0.1,18.63
+ORD10094,2025-02-16,Customer 168,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 914,7,1002.76,0.05,237.41
+ORD10095,2025-10-18,Customer 227,Corporate,South,Kochi,Office Supplies,Binder,Binder 783,5,638.41,0.0,91.74
+ORD10096,2025-01-04,Customer 112,Consumer,South,Kochi,Furniture,Table,Table 759,4,598.28,0.2,54.5
+ORD10097,2025-01-27,Customer 142,Consumer,South,Bengaluru,Furniture,Table,Table 691,6,702.14,0.05,58.97
+ORD10098,2025-03-29,Customer 237,Consumer,South,Bengaluru,Technology,Monitor,Monitor 479,3,235.91,0.1,20.89
+ORD10099,2025-09-05,Customer 81,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 408,3,1259.19,0.0,431.48
+ORD10100,2025-11-11,Customer 217,Consumer,South,Bengaluru,Technology,Monitor,Monitor 804,3,967.68,0.05,223.84
+ORD10101,2025-03-05,Customer 39,Consumer,South,Bengaluru,Technology,Laptop,Laptop 142,7,1409.05,0.05,225.55
+ORD10102,2025-11-18,Customer 200,Corporate,West,Mumbai,Technology,Monitor,Monitor 139,6,194.24,0.3,30.44
+ORD10103,2025-04-02,Customer 6,Consumer,South,Kochi,Technology,Laptop,Laptop 535,7,995.09,0.2,180.18
+ORD10104,2025-02-04,Customer 33,Corporate,South,Kochi,Furniture,Table,Table 881,8,1258.09,0.2,188.84
+ORD10105,2025-06-10,Customer 200,Home Office,South,Kochi,Furniture,Table,Table 616,1,80.16,0.05,5.58
+ORD10106,2025-12-21,Customer 209,Consumer,East,Chennai,Technology,Phone,Phone 768,3,58.27,0.0,20.33
+ORD10107,2025-06-29,Customer 157,Corporate,West,Mumbai,Office Supplies,Binder,Binder 930,3,1035.48,0.05,66.95
+ORD10108,2025-09-03,Customer 54,Home Office,West,Pune,Technology,Phone,Phone 935,8,232.49,0.3,71.91
+ORD10109,2025-05-23,Customer 174,Corporate,North,Delhi,Office Supplies,Binder,Binder 137,4,289.5,0.05,68.31
+ORD10110,2025-08-20,Customer 143,Home Office,South,Bengaluru,Office Supplies,Paper,Paper 886,1,961.75,0.1,317.23
+ORD10111,2025-07-08,Customer 148,Consumer,East,Hyderabad,Technology,Monitor,Monitor 977,7,1112.13,0.1,132.82
+ORD10112,2025-09-22,Customer 65,Corporate,North,Noida,Furniture,Table,Table 335,3,930.75,0.0,129.3
+ORD10113,2025-07-06,Customer 230,Consumer,North,Delhi,Technology,Laptop,Laptop 326,3,450.64,0.2,69.99
+ORD10114,2025-06-05,Customer 28,Home Office,West,Pune,Furniture,Bookcase,Bookcase 768,1,52.99,0.0,11.67
+ORD10115,2025-03-23,Customer 35,Consumer,North,Delhi,Office Supplies,Pen,Pen 408,3,322.19,0.3,86.52
+ORD10116,2025-05-16,Customer 248,Consumer,West,Mumbai,Office Supplies,Paper,Paper 165,3,1309.5,0.1,210.29
+ORD10117,2025-05-08,Customer 43,Consumer,East,Hyderabad,Technology,Monitor,Monitor 692,8,910.78,0.3,218.64
+ORD10118,2025-02-23,Customer 4,Home Office,East,Chennai,Technology,Laptop,Laptop 515,3,371.75,0.0,120.27
+ORD10119,2025-02-02,Customer 77,Home Office,West,Mumbai,Office Supplies,Paper,Paper 630,7,1223.8,0.05,241.79
+ORD10120,2025-12-02,Customer 116,Consumer,East,Hyderabad,Technology,Monitor,Monitor 106,7,1269.76,0.2,68.75
+ORD10121,2025-05-17,Customer 163,Home Office,West,Mumbai,Office Supplies,Paper,Paper 759,1,202.43,0.1,51.32
+ORD10122,2025-05-01,Customer 216,Home Office,South,Kochi,Office Supplies,Pen,Pen 322,2,1322.47,0.0,133.48
+ORD10123,2025-11-19,Customer 236,Home Office,West,Mumbai,Technology,Phone,Phone 296,7,506.26,0.05,80.41
+ORD10124,2025-06-07,Customer 203,Consumer,South,Kochi,Technology,Monitor,Monitor 106,1,667.08,0.05,144.16
+ORD10125,2025-03-24,Customer 89,Consumer,South,Bengaluru,Technology,Laptop,Laptop 248,1,59.82,0.0,14.15
+ORD10126,2025-10-30,Customer 196,Corporate,East,Chennai,Furniture,Chair,Chair 809,1,1051.57,0.0,73.33
+ORD10127,2025-11-21,Customer 23,Home Office,West,Mumbai,Technology,Phone,Phone 209,4,324.47,0.0,19.52
+ORD10128,2025-01-11,Customer 90,Corporate,North,Noida,Furniture,Chair,Chair 200,4,455.8,0.1,76.18
+ORD10129,2025-07-31,Customer 8,Corporate,North,Delhi,Technology,Phone,Phone 428,8,1280.04,0.3,311.94
+ORD10130,2025-05-28,Customer 44,Corporate,East,Hyderabad,Office Supplies,Pen,Pen 149,4,1077.3,0.0,239.55
+ORD10131,2025-04-05,Customer 248,Corporate,East,Chennai,Office Supplies,Paper,Paper 104,6,746.42,0.2,178.07
+ORD10132,2025-02-26,Customer 241,Home Office,North,Noida,Technology,Laptop,Laptop 390,4,1408.67,0.05,273.98
+ORD10133,2025-07-22,Customer 229,Home Office,East,Hyderabad,Technology,Monitor,Monitor 905,2,949.34,0.1,65.07
+ORD10134,2025-09-14,Customer 44,Corporate,East,Hyderabad,Technology,Laptop,Laptop 480,4,468.65,0.2,140.77
+ORD10135,2025-08-19,Customer 170,Home Office,West,Pune,Furniture,Bookcase,Bookcase 708,1,535.76,0.1,105.29
+ORD10136,2025-11-26,Customer 227,Home Office,North,Delhi,Office Supplies,Binder,Binder 805,5,877.17,0.05,127.38
+ORD10137,2025-11-05,Customer 134,Corporate,West,Mumbai,Office Supplies,Binder,Binder 872,3,1090.54,0.05,285.66
+ORD10138,2025-03-19,Customer 38,Corporate,West,Mumbai,Office Supplies,Paper,Paper 364,2,263.61,0.0,28.64
+ORD10139,2025-01-07,Customer 103,Corporate,North,Noida,Office Supplies,Paper,Paper 211,2,435.59,0.2,73.69
+ORD10140,2025-05-05,Customer 233,Corporate,West,Pune,Office Supplies,Paper,Paper 245,5,913.49,0.2,28.92
+ORD10141,2025-06-10,Customer 67,Home Office,South,Bengaluru,Technology,Monitor,Monitor 768,4,1025.8,0.0,190.97
+ORD10142,2025-01-11,Customer 160,Corporate,East,Hyderabad,Furniture,Table,Table 830,3,390.09,0.2,68.2
+ORD10143,2025-10-06,Customer 56,Consumer,West,Pune,Furniture,Table,Table 951,8,1364.12,0.0,83.82
+ORD10144,2025-07-09,Customer 134,Corporate,West,Pune,Furniture,Bookcase,Bookcase 567,4,1081.6,0.3,26.86
+ORD10145,2025-11-11,Customer 92,Home Office,South,Kochi,Furniture,Bookcase,Bookcase 288,7,780.41,0.0,209.72
+ORD10146,2025-11-18,Customer 179,Home Office,East,Hyderabad,Office Supplies,Binder,Binder 509,1,39.7,0.2,12.09
+ORD10147,2025-07-20,Customer 119,Consumer,North,Noida,Furniture,Chair,Chair 410,7,1411.1,0.3,439.49
+ORD10148,2025-03-16,Customer 91,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 297,8,970.45,0.05,280.84
+ORD10149,2025-04-28,Customer 69,Home Office,South,Kochi,Office Supplies,Pen,Pen 765,3,1174.17,0.2,160.18
+ORD10150,2025-12-02,Customer 78,Corporate,South,Kochi,Office Supplies,Pen,Pen 290,8,23.99,0.1,3.54
+ORD10151,2025-06-05,Customer 219,Corporate,South,Kochi,Office Supplies,Pen,Pen 752,2,995.71,0.1,85.46
+ORD10152,2025-01-08,Customer 169,Consumer,East,Chennai,Technology,Phone,Phone 902,3,805.36,0.1,185.19
+ORD10153,2025-08-20,Customer 89,Consumer,West,Mumbai,Technology,Phone,Phone 356,2,876.16,0.05,88.23
+ORD10154,2025-06-02,Customer 51,Corporate,West,Pune,Technology,Laptop,Laptop 724,2,1009.32,0.3,258.81
+ORD10155,2025-03-13,Customer 122,Corporate,West,Mumbai,Technology,Phone,Phone 787,2,841.49,0.1,139.44
+ORD10156,2025-01-04,Customer 42,Corporate,East,Hyderabad,Office Supplies,Paper,Paper 817,8,384.92,0.05,79.63
+ORD10157,2025-12-13,Customer 20,Consumer,South,Kochi,Technology,Phone,Phone 960,8,574.94,0.2,189.72
+ORD10158,2025-09-06,Customer 194,Consumer,North,Delhi,Furniture,Bookcase,Bookcase 146,6,1216.73,0.0,247.22
+ORD10159,2025-09-27,Customer 142,Consumer,East,Chennai,Technology,Phone,Phone 740,3,521.14,0.1,74.21
+ORD10160,2025-09-10,Customer 104,Corporate,North,Noida,Office Supplies,Binder,Binder 357,1,1243.55,0.1,182.25
+ORD10161,2025-03-07,Customer 151,Home Office,North,Noida,Furniture,Bookcase,Bookcase 604,2,509.73,0.1,129.45
+ORD10162,2025-02-25,Customer 2,Consumer,East,Chennai,Office Supplies,Pen,Pen 667,7,827.19,0.0,140.25
+ORD10163,2025-02-12,Customer 55,Consumer,West,Pune,Technology,Monitor,Monitor 161,7,932.71,0.3,263.86
+ORD10164,2025-12-02,Customer 4,Corporate,South,Bengaluru,Furniture,Bookcase,Bookcase 285,1,643.93,0.0,208.78
+ORD10165,2025-08-09,Customer 145,Home Office,West,Pune,Technology,Monitor,Monitor 364,5,293.47,0.0,42.71
+ORD10166,2025-07-27,Customer 115,Consumer,East,Hyderabad,Technology,Monitor,Monitor 140,2,1165.19,0.2,236.06
+ORD10167,2025-02-12,Customer 165,Corporate,East,Hyderabad,Technology,Monitor,Monitor 775,3,723.66,0.2,140.85
+ORD10168,2025-02-15,Customer 56,Consumer,West,Mumbai,Technology,Laptop,Laptop 537,1,33.8,0.0,11.69
+ORD10169,2025-07-07,Customer 199,Home Office,West,Pune,Furniture,Table,Table 836,4,687.15,0.05,221.15
+ORD10170,2025-01-27,Customer 184,Consumer,West,Mumbai,Office Supplies,Pen,Pen 670,8,701.66,0.1,220.36
+ORD10171,2025-03-26,Customer 246,Corporate,East,Chennai,Furniture,Bookcase,Bookcase 803,2,595.64,0.1,154.17
+ORD10172,2025-03-01,Customer 93,Home Office,East,Hyderabad,Office Supplies,Pen,Pen 845,8,715.31,0.05,63.28
+ORD10173,2025-05-24,Customer 16,Home Office,West,Pune,Office Supplies,Binder,Binder 896,8,1418.48,0.3,170.45
+ORD10174,2025-12-17,Customer 97,Home Office,North,Delhi,Furniture,Bookcase,Bookcase 952,5,885.31,0.05,139.88
+ORD10175,2025-01-22,Customer 74,Consumer,West,Pune,Office Supplies,Pen,Pen 101,6,409.31,0.2,31.59
+ORD10176,2025-09-06,Customer 205,Corporate,West,Pune,Technology,Monitor,Monitor 895,8,533.34,0.0,113.07
+ORD10177,2025-10-28,Customer 193,Consumer,West,Mumbai,Office Supplies,Pen,Pen 158,7,708.68,0.05,228.76
+ORD10178,2025-09-24,Customer 230,Corporate,South,Kochi,Technology,Laptop,Laptop 649,6,1162.81,0.05,191.23
+ORD10179,2025-12-25,Customer 75,Corporate,North,Noida,Technology,Monitor,Monitor 306,4,334.79,0.0,34.89
+ORD10180,2025-02-24,Customer 96,Home Office,North,Noida,Technology,Laptop,Laptop 352,1,1385.47,0.2,197.03
+ORD10181,2025-02-18,Customer 9,Consumer,South,Bengaluru,Furniture,Table,Table 711,1,530.48,0.3,107.23
+ORD10182,2025-03-09,Customer 66,Consumer,South,Bengaluru,Office Supplies,Binder,Binder 536,2,1420.82,0.3,377.44
+ORD10183,2025-12-28,Customer 118,Corporate,North,Delhi,Furniture,Table,Table 185,1,95.48,0.3,12.5
+ORD10184,2025-12-09,Customer 130,Corporate,East,Hyderabad,Furniture,Bookcase,Bookcase 192,5,491.69,0.05,116.62
+ORD10185,2025-01-31,Customer 232,Home Office,West,Pune,Furniture,Table,Table 340,4,274.74,0.1,88.56
+ORD10186,2025-01-03,Customer 241,Consumer,East,Chennai,Office Supplies,Pen,Pen 826,8,102.54,0.05,14.39
+ORD10187,2025-09-04,Customer 98,Consumer,North,Noida,Technology,Laptop,Laptop 582,6,570.1,0.2,38.34
+ORD10188,2025-03-22,Customer 238,Consumer,South,Bengaluru,Furniture,Bookcase,Bookcase 112,8,1081.5,0.05,307.85
+ORD10189,2025-11-18,Customer 20,Corporate,East,Hyderabad,Technology,Laptop,Laptop 896,8,1437.77,0.2,406.42
+ORD10190,2025-04-03,Customer 183,Corporate,North,Noida,Furniture,Table,Table 218,6,231.3,0.05,61.48
+ORD10191,2025-06-01,Customer 86,Consumer,West,Pune,Furniture,Table,Table 528,7,385.2,0.0,50.59
+ORD10192,2025-12-09,Customer 237,Consumer,North,Noida,Furniture,Table,Table 567,8,188.97,0.3,7.0
+ORD10193,2025-05-03,Customer 237,Consumer,South,Kochi,Furniture,Table,Table 872,4,1456.64,0.2,476.77
+ORD10194,2025-11-24,Customer 5,Corporate,East,Hyderabad,Office Supplies,Binder,Binder 266,1,1251.84,0.1,104.28
+ORD10195,2025-07-29,Customer 56,Corporate,North,Delhi,Office Supplies,Paper,Paper 908,5,295.01,0.2,12.44
+ORD10196,2025-02-14,Customer 228,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 888,4,1073.2,0.05,241.68
+ORD10197,2025-12-21,Customer 188,Home Office,South,Kochi,Furniture,Chair,Chair 240,4,882.74,0.05,42.38
+ORD10198,2025-07-29,Customer 234,Corporate,South,Bengaluru,Technology,Phone,Phone 443,5,1266.02,0.2,72.29
+ORD10199,2025-01-03,Customer 92,Home Office,West,Pune,Furniture,Chair,Chair 676,6,74.27,0.1,15.78
+ORD10200,2025-07-15,Customer 148,Consumer,South,Bengaluru,Furniture,Table,Table 831,4,1228.47,0.1,336.28
+ORD10201,2025-05-05,Customer 248,Consumer,North,Delhi,Technology,Phone,Phone 557,1,805.16,0.3,48.56
+ORD10202,2025-12-24,Customer 190,Consumer,West,Mumbai,Furniture,Chair,Chair 419,5,841.93,0.0,47.01
+ORD10203,2025-02-18,Customer 184,Consumer,North,Delhi,Technology,Monitor,Monitor 690,8,793.91,0.2,48.32
+ORD10204,2025-03-12,Customer 139,Home Office,East,Hyderabad,Furniture,Table,Table 605,5,182.86,0.0,31.4
+ORD10205,2025-01-10,Customer 241,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 686,8,1124.94,0.05,370.62
+ORD10206,2025-06-23,Customer 103,Consumer,South,Kochi,Technology,Monitor,Monitor 638,1,605.54,0.0,171.41
+ORD10207,2025-03-17,Customer 246,Home Office,North,Noida,Technology,Phone,Phone 934,7,1274.49,0.0,187.94
+ORD10208,2025-06-16,Customer 111,Consumer,North,Delhi,Office Supplies,Pen,Pen 747,1,559.36,0.3,42.65
+ORD10209,2025-11-25,Customer 159,Corporate,East,Chennai,Furniture,Table,Table 506,8,957.15,0.0,57.73
+ORD10210,2025-01-21,Customer 74,Consumer,North,Delhi,Technology,Laptop,Laptop 356,2,790.05,0.2,79.79
+ORD10211,2025-02-13,Customer 120,Home Office,North,Noida,Technology,Laptop,Laptop 223,1,899.55,0.3,261.25
+ORD10212,2025-05-05,Customer 189,Consumer,West,Pune,Furniture,Bookcase,Bookcase 234,5,1375.07,0.3,146.43
+ORD10213,2025-07-07,Customer 118,Home Office,North,Noida,Technology,Monitor,Monitor 683,4,982.53,0.05,205.91
+ORD10214,2025-07-16,Customer 249,Home Office,North,Noida,Office Supplies,Binder,Binder 131,4,513.83,0.05,102.12
+ORD10215,2025-05-26,Customer 225,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 982,4,499.45,0.1,93.61
+ORD10216,2025-02-01,Customer 133,Corporate,North,Delhi,Furniture,Chair,Chair 664,2,916.77,0.1,157.68
+ORD10217,2025-12-09,Customer 91,Consumer,South,Kochi,Technology,Laptop,Laptop 633,4,1484.17,0.05,252.35
+ORD10218,2025-02-22,Customer 2,Corporate,West,Pune,Technology,Laptop,Laptop 856,8,417.65,0.05,70.55
+ORD10219,2025-11-07,Customer 29,Corporate,East,Hyderabad,Office Supplies,Pen,Pen 253,7,1277.92,0.1,385.71
+ORD10220,2025-07-16,Customer 166,Corporate,South,Kochi,Office Supplies,Pen,Pen 461,5,542.37,0.3,101.21
+ORD10221,2025-07-13,Customer 149,Consumer,East,Hyderabad,Office Supplies,Binder,Binder 407,3,814.57,0.05,143.11
+ORD10222,2025-01-06,Customer 7,Consumer,East,Hyderabad,Office Supplies,Pen,Pen 958,4,1438.97,0.05,484.41
+ORD10223,2025-09-22,Customer 187,Home Office,North,Noida,Office Supplies,Pen,Pen 892,5,816.98,0.2,151.33
+ORD10224,2025-09-26,Customer 59,Consumer,South,Kochi,Office Supplies,Binder,Binder 141,6,690.54,0.0,174.67
+ORD10225,2025-08-14,Customer 197,Home Office,South,Kochi,Technology,Phone,Phone 764,3,1322.16,0.2,232.72
+ORD10226,2025-02-26,Customer 168,Corporate,North,Delhi,Furniture,Table,Table 425,6,1468.07,0.1,284.48
+ORD10227,2025-04-07,Customer 106,Consumer,North,Noida,Technology,Laptop,Laptop 636,5,1227.92,0.05,241.24
+ORD10228,2025-06-07,Customer 182,Home Office,East,Chennai,Office Supplies,Pen,Pen 746,1,1043.77,0.0,298.82
+ORD10229,2025-10-11,Customer 146,Corporate,East,Hyderabad,Office Supplies,Paper,Paper 700,1,1008.8,0.05,98.42
+ORD10230,2025-02-21,Customer 20,Consumer,West,Mumbai,Office Supplies,Pen,Pen 224,3,252.02,0.3,13.1
+ORD10231,2025-05-02,Customer 91,Corporate,South,Kochi,Technology,Phone,Phone 925,1,982.15,0.3,114.76
+ORD10232,2025-01-11,Customer 14,Consumer,West,Mumbai,Office Supplies,Pen,Pen 201,2,536.36,0.2,116.5
+ORD10233,2025-10-28,Customer 219,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 735,4,389.01,0.0,38.05
+ORD10234,2025-02-04,Customer 63,Home Office,North,Delhi,Office Supplies,Binder,Binder 528,5,1440.84,0.2,466.63
+ORD10235,2025-03-29,Customer 92,Corporate,South,Bengaluru,Office Supplies,Binder,Binder 508,8,53.19,0.05,3.79
+ORD10236,2025-06-21,Customer 104,Home Office,West,Mumbai,Office Supplies,Binder,Binder 675,6,190.03,0.3,53.48
+ORD10237,2025-05-02,Customer 112,Consumer,East,Chennai,Office Supplies,Binder,Binder 667,4,593.3,0.2,68.27
+ORD10238,2025-03-07,Customer 143,Corporate,North,Delhi,Office Supplies,Paper,Paper 347,3,157.09,0.1,31.96
+ORD10239,2025-10-25,Customer 54,Corporate,South,Bengaluru,Furniture,Table,Table 461,4,1089.25,0.2,238.33
+ORD10240,2025-08-14,Customer 151,Corporate,South,Bengaluru,Furniture,Table,Table 791,3,1414.29,0.1,309.43
+ORD10241,2025-02-16,Customer 139,Corporate,West,Pune,Technology,Monitor,Monitor 317,3,1311.14,0.0,332.19
+ORD10242,2025-12-22,Customer 46,Consumer,South,Bengaluru,Technology,Monitor,Monitor 681,3,479.97,0.2,116.73
+ORD10243,2025-06-09,Customer 23,Consumer,North,Delhi,Technology,Laptop,Laptop 169,6,1211.67,0.1,118.56
+ORD10244,2025-11-18,Customer 221,Consumer,North,Delhi,Technology,Phone,Phone 389,6,617.0,0.2,161.96
+ORD10245,2025-12-25,Customer 119,Consumer,North,Delhi,Furniture,Table,Table 795,6,1347.48,0.0,333.8
+ORD10246,2025-12-31,Customer 174,Consumer,South,Kochi,Technology,Laptop,Laptop 286,5,190.54,0.3,45.77
+ORD10247,2025-01-21,Customer 142,Corporate,South,Bengaluru,Technology,Laptop,Laptop 541,4,1140.3,0.05,181.56
+ORD10248,2025-01-01,Customer 29,Home Office,West,Mumbai,Technology,Phone,Phone 833,5,1390.03,0.3,173.35
+ORD10249,2025-06-13,Customer 54,Corporate,North,Delhi,Technology,Monitor,Monitor 812,1,1461.71,0.0,89.37
+ORD10250,2025-08-06,Customer 114,Corporate,East,Hyderabad,Technology,Monitor,Monitor 503,4,436.13,0.0,67.47
+ORD10251,2025-04-07,Customer 12,Home Office,South,Bengaluru,Technology,Monitor,Monitor 310,7,1016.22,0.05,194.96
+ORD10252,2025-03-28,Customer 92,Corporate,North,Delhi,Technology,Laptop,Laptop 899,4,825.02,0.05,275.62
+ORD10253,2025-05-02,Customer 181,Consumer,South,Bengaluru,Furniture,Bookcase,Bookcase 418,3,222.1,0.2,51.33
+ORD10254,2025-05-04,Customer 86,Home Office,East,Hyderabad,Furniture,Bookcase,Bookcase 459,5,217.43,0.05,48.11
+ORD10255,2025-07-27,Customer 213,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 782,3,906.05,0.2,255.37
+ORD10256,2025-02-26,Customer 180,Corporate,East,Hyderabad,Furniture,Table,Table 598,4,84.23,0.1,11.05
+ORD10257,2025-02-06,Customer 12,Consumer,South,Bengaluru,Furniture,Table,Table 555,8,862.39,0.1,77.98
+ORD10258,2025-11-27,Customer 126,Corporate,South,Kochi,Furniture,Bookcase,Bookcase 834,6,1470.72,0.3,146.09
+ORD10259,2025-12-01,Customer 180,Corporate,South,Bengaluru,Technology,Phone,Phone 108,6,1380.94,0.1,315.3
+ORD10260,2025-04-06,Customer 247,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 128,1,1166.17,0.05,156.14
+ORD10261,2025-07-08,Customer 35,Home Office,West,Mumbai,Technology,Phone,Phone 860,6,581.48,0.1,79.11
+ORD10262,2025-04-21,Customer 127,Corporate,North,Noida,Furniture,Chair,Chair 142,2,858.97,0.2,259.03
+ORD10263,2025-08-15,Customer 164,Corporate,South,Bengaluru,Office Supplies,Pen,Pen 695,2,229.99,0.05,21.64
+ORD10264,2025-11-09,Customer 219,Home Office,East,Chennai,Office Supplies,Binder,Binder 295,4,1089.97,0.0,64.97
+ORD10265,2025-02-02,Customer 113,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 777,1,781.64,0.2,232.29
+ORD10266,2025-08-29,Customer 22,Home Office,West,Mumbai,Office Supplies,Binder,Binder 104,8,1210.16,0.1,254.44
+ORD10267,2025-01-31,Customer 186,Home Office,North,Noida,Office Supplies,Pen,Pen 740,3,1462.07,0.3,301.13
+ORD10268,2025-06-25,Customer 136,Home Office,North,Noida,Technology,Monitor,Monitor 531,6,731.48,0.05,98.6
+ORD10269,2025-07-10,Customer 143,Home Office,East,Chennai,Furniture,Bookcase,Bookcase 857,8,1043.21,0.05,253.65
+ORD10270,2025-04-14,Customer 141,Home Office,South,Kochi,Technology,Laptop,Laptop 678,8,606.59,0.0,71.68
+ORD10271,2025-04-27,Customer 142,Corporate,East,Chennai,Office Supplies,Pen,Pen 197,4,805.55,0.1,203.59
+ORD10272,2025-03-10,Customer 222,Home Office,West,Mumbai,Technology,Monitor,Monitor 702,2,1280.27,0.0,371.41
+ORD10273,2025-02-17,Customer 36,Corporate,East,Chennai,Office Supplies,Pen,Pen 501,3,1452.58,0.05,310.72
+ORD10274,2025-08-24,Customer 77,Consumer,East,Hyderabad,Furniture,Chair,Chair 481,1,42.45,0.3,13.02
+ORD10275,2025-06-24,Customer 206,Home Office,West,Pune,Furniture,Bookcase,Bookcase 993,4,853.18,0.1,77.13
+ORD10276,2025-06-30,Customer 26,Corporate,East,Hyderabad,Furniture,Chair,Chair 481,6,1088.23,0.0,320.99
+ORD10277,2025-10-25,Customer 113,Consumer,North,Delhi,Furniture,Bookcase,Bookcase 348,5,544.44,0.2,19.81
+ORD10278,2025-12-18,Customer 172,Corporate,East,Hyderabad,Furniture,Chair,Chair 919,5,294.2,0.3,88.06
+ORD10279,2025-03-19,Customer 125,Home Office,West,Pune,Technology,Monitor,Monitor 879,5,1424.17,0.0,81.79
+ORD10280,2025-08-18,Customer 101,Consumer,South,Bengaluru,Furniture,Chair,Chair 286,7,1267.58,0.05,320.54
+ORD10281,2025-04-19,Customer 44,Corporate,East,Hyderabad,Office Supplies,Pen,Pen 321,5,1343.1,0.3,278.54
+ORD10282,2025-06-20,Customer 59,Consumer,South,Kochi,Technology,Phone,Phone 497,6,485.25,0.1,103.72
+ORD10283,2025-05-20,Customer 17,Home Office,West,Pune,Technology,Laptop,Laptop 746,3,1095.91,0.05,138.96
+ORD10284,2025-02-18,Customer 224,Consumer,North,Noida,Technology,Monitor,Monitor 640,3,1488.43,0.0,483.02
+ORD10285,2025-06-05,Customer 247,Corporate,South,Bengaluru,Office Supplies,Binder,Binder 912,4,1311.76,0.05,327.15
+ORD10286,2025-09-04,Customer 129,Corporate,North,Delhi,Office Supplies,Pen,Pen 832,7,514.95,0.1,124.37
+ORD10287,2025-07-22,Customer 146,Corporate,West,Mumbai,Office Supplies,Paper,Paper 238,4,30.7,0.2,4.65
+ORD10288,2025-06-24,Customer 19,Consumer,West,Mumbai,Furniture,Table,Table 837,5,393.13,0.3,72.88
+ORD10289,2025-02-04,Customer 215,Corporate,East,Chennai,Office Supplies,Pen,Pen 461,8,548.33,0.2,135.09
+ORD10290,2025-01-11,Customer 56,Consumer,North,Delhi,Office Supplies,Binder,Binder 659,1,1142.57,0.1,126.91
+ORD10291,2025-11-04,Customer 13,Consumer,South,Kochi,Furniture,Bookcase,Bookcase 389,2,311.13,0.0,105.46
+ORD10292,2025-01-15,Customer 55,Corporate,East,Hyderabad,Technology,Laptop,Laptop 105,4,420.54,0.0,101.76
+ORD10293,2025-02-14,Customer 161,Home Office,North,Delhi,Technology,Phone,Phone 515,6,278.27,0.2,74.82
+ORD10294,2025-10-16,Customer 168,Corporate,North,Noida,Technology,Phone,Phone 363,8,1312.51,0.0,429.96
+ORD10295,2025-03-15,Customer 136,Consumer,East,Hyderabad,Technology,Monitor,Monitor 841,6,251.88,0.0,24.4
+ORD10296,2025-04-28,Customer 190,Home Office,North,Noida,Office Supplies,Binder,Binder 651,3,992.89,0.3,191.12
+ORD10297,2025-05-21,Customer 34,Corporate,North,Noida,Furniture,Bookcase,Bookcase 416,8,847.76,0.1,167.01
+ORD10298,2025-02-16,Customer 240,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 928,6,242.88,0.05,40.14
+ORD10299,2025-11-07,Customer 94,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 613,4,841.77,0.05,103.31
+ORD10300,2025-09-13,Customer 55,Home Office,West,Mumbai,Technology,Laptop,Laptop 641,1,539.23,0.05,95.7
+ORD10301,2025-11-27,Customer 234,Corporate,North,Noida,Office Supplies,Paper,Paper 431,1,179.55,0.0,12.5
+ORD10302,2025-11-18,Customer 221,Consumer,North,Delhi,Furniture,Bookcase,Bookcase 485,7,1362.39,0.2,427.09
+ORD10303,2025-08-06,Customer 165,Corporate,East,Hyderabad,Furniture,Table,Table 826,7,377.91,0.1,38.15
+ORD10304,2025-03-11,Customer 211,Corporate,North,Noida,Furniture,Bookcase,Bookcase 909,3,726.51,0.1,237.05
+ORD10305,2025-08-20,Customer 55,Home Office,North,Delhi,Office Supplies,Paper,Paper 597,4,259.16,0.3,51.64
+ORD10306,2025-06-02,Customer 176,Consumer,East,Chennai,Technology,Phone,Phone 147,8,289.8,0.05,99.53
+ORD10307,2025-03-28,Customer 119,Home Office,East,Chennai,Furniture,Chair,Chair 409,3,763.89,0.1,52.91
+ORD10308,2025-04-14,Customer 203,Home Office,South,Bengaluru,Office Supplies,Binder,Binder 757,7,1325.29,0.0,298.96
+ORD10309,2025-01-25,Customer 229,Corporate,East,Chennai,Furniture,Bookcase,Bookcase 709,4,870.78,0.0,233.85
+ORD10310,2025-03-17,Customer 163,Home Office,East,Chennai,Furniture,Table,Table 239,7,23.8,0.05,5.96
+ORD10311,2025-05-20,Customer 181,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 457,4,1282.7,0.05,339.17
+ORD10312,2025-07-05,Customer 69,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 144,4,772.95,0.2,206.27
+ORD10313,2025-05-18,Customer 103,Corporate,North,Delhi,Technology,Phone,Phone 657,5,832.24,0.2,270.24
+ORD10314,2025-11-22,Customer 2,Consumer,North,Noida,Office Supplies,Paper,Paper 496,7,1324.89,0.05,416.58
+ORD10315,2025-01-26,Customer 104,Home Office,North,Noida,Furniture,Chair,Chair 779,2,148.48,0.3,37.89
+ORD10316,2025-11-28,Customer 219,Corporate,North,Noida,Technology,Monitor,Monitor 423,8,1457.99,0.0,279.99
+ORD10317,2025-09-27,Customer 69,Home Office,North,Noida,Furniture,Bookcase,Bookcase 910,7,545.7,0.0,91.71
+ORD10318,2025-08-31,Customer 220,Home Office,North,Delhi,Technology,Monitor,Monitor 780,4,1387.44,0.1,164.67
+ORD10319,2025-04-15,Customer 136,Consumer,North,Noida,Technology,Laptop,Laptop 245,2,1392.45,0.3,179.94
+ORD10320,2025-07-05,Customer 214,Corporate,North,Delhi,Technology,Laptop,Laptop 256,8,283.02,0.0,41.49
+ORD10321,2025-09-25,Customer 134,Corporate,East,Hyderabad,Furniture,Bookcase,Bookcase 357,7,172.15,0.1,41.13
+ORD10322,2025-03-31,Customer 195,Home Office,South,Bengaluru,Office Supplies,Binder,Binder 397,8,1048.62,0.2,231.11
+ORD10323,2025-09-25,Customer 88,Corporate,West,Mumbai,Technology,Laptop,Laptop 475,8,790.63,0.05,183.29
+ORD10324,2025-10-06,Customer 71,Corporate,North,Delhi,Technology,Laptop,Laptop 100,5,105.45,0.05,14.44
+ORD10325,2025-05-29,Customer 159,Corporate,North,Delhi,Office Supplies,Binder,Binder 193,8,1291.16,0.05,107.8
+ORD10326,2025-05-12,Customer 91,Consumer,East,Hyderabad,Office Supplies,Binder,Binder 142,5,1455.28,0.2,326.65
+ORD10327,2025-02-06,Customer 21,Corporate,South,Bengaluru,Technology,Laptop,Laptop 972,6,113.77,0.05,16.36
+ORD10328,2025-08-25,Customer 180,Corporate,South,Kochi,Technology,Phone,Phone 608,1,179.56,0.3,28.51
+ORD10329,2025-01-05,Customer 172,Consumer,South,Kochi,Furniture,Chair,Chair 550,7,747.08,0.3,183.66
+ORD10330,2025-03-02,Customer 24,Consumer,West,Pune,Technology,Laptop,Laptop 796,5,839.7,0.2,219.13
+ORD10331,2025-04-13,Customer 183,Corporate,East,Chennai,Furniture,Table,Table 190,4,855.33,0.0,254.2
+ORD10332,2025-01-26,Customer 224,Home Office,South,Bengaluru,Technology,Monitor,Monitor 865,7,1268.55,0.05,436.92
+ORD10333,2025-05-15,Customer 23,Corporate,West,Pune,Office Supplies,Paper,Paper 630,1,295.5,0.3,30.26
+ORD10334,2025-06-07,Customer 78,Consumer,South,Kochi,Technology,Phone,Phone 669,7,776.25,0.2,181.89
+ORD10335,2025-07-11,Customer 239,Corporate,South,Kochi,Technology,Phone,Phone 412,4,214.99,0.05,44.3
+ORD10336,2025-06-10,Customer 3,Home Office,South,Bengaluru,Office Supplies,Binder,Binder 305,8,1380.68,0.3,302.6
+ORD10337,2025-12-30,Customer 54,Home Office,East,Hyderabad,Technology,Phone,Phone 136,5,345.14,0.2,40.54
+ORD10338,2025-03-05,Customer 13,Consumer,South,Kochi,Technology,Phone,Phone 308,4,105.42,0.2,30.3
+ORD10339,2025-10-01,Customer 215,Consumer,East,Hyderabad,Furniture,Chair,Chair 838,3,757.36,0.1,212.5
+ORD10340,2025-08-01,Customer 58,Home Office,West,Mumbai,Technology,Laptop,Laptop 576,2,318.41,0.0,106.75
+ORD10341,2025-08-17,Customer 76,Consumer,North,Noida,Technology,Phone,Phone 258,1,1387.31,0.05,79.81
+ORD10342,2025-01-17,Customer 84,Corporate,North,Delhi,Office Supplies,Binder,Binder 432,4,244.81,0.05,39.77
+ORD10343,2025-08-09,Customer 86,Home Office,West,Pune,Furniture,Bookcase,Bookcase 658,2,313.27,0.05,82.54
+ORD10344,2025-05-29,Customer 126,Corporate,South,Bengaluru,Furniture,Table,Table 225,4,1494.27,0.3,265.83
+ORD10345,2025-02-15,Customer 52,Consumer,East,Hyderabad,Furniture,Chair,Chair 596,5,1298.71,0.3,253.47
+ORD10346,2025-06-26,Customer 50,Consumer,South,Kochi,Furniture,Bookcase,Bookcase 407,1,878.56,0.0,298.89
+ORD10347,2025-04-02,Customer 29,Corporate,North,Delhi,Furniture,Table,Table 458,8,731.94,0.1,192.28
+ORD10348,2025-01-19,Customer 9,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 664,2,1186.22,0.3,163.67
+ORD10349,2025-12-06,Customer 188,Consumer,East,Hyderabad,Technology,Monitor,Monitor 235,7,875.43,0.1,55.04
+ORD10350,2025-05-14,Customer 25,Consumer,North,Delhi,Technology,Laptop,Laptop 439,1,1266.6,0.2,153.28
+ORD10351,2025-10-02,Customer 11,Home Office,West,Mumbai,Furniture,Table,Table 376,2,499.92,0.05,47.1
+ORD10352,2025-10-01,Customer 129,Consumer,North,Noida,Furniture,Table,Table 513,4,1482.3,0.05,389.81
+ORD10353,2025-03-29,Customer 40,Corporate,East,Chennai,Furniture,Chair,Chair 600,4,1039.66,0.05,73.93
+ORD10354,2025-10-24,Customer 56,Consumer,East,Hyderabad,Office Supplies,Pen,Pen 630,2,452.1,0.0,34.04
+ORD10355,2025-12-21,Customer 45,Corporate,West,Mumbai,Furniture,Chair,Chair 713,6,1474.77,0.0,168.82
+ORD10356,2025-01-17,Customer 23,Consumer,North,Delhi,Office Supplies,Pen,Pen 287,1,489.87,0.2,130.3
+ORD10357,2025-12-29,Customer 250,Consumer,West,Mumbai,Furniture,Table,Table 888,3,321.53,0.05,80.64
+ORD10358,2025-04-12,Customer 222,Home Office,East,Hyderabad,Furniture,Table,Table 638,6,1363.98,0.3,287.69
+ORD10359,2025-09-12,Customer 35,Corporate,East,Hyderabad,Office Supplies,Paper,Paper 766,6,882.51,0.2,204.58
+ORD10360,2025-10-31,Customer 137,Home Office,North,Delhi,Technology,Phone,Phone 952,3,664.27,0.3,72.86
+ORD10361,2025-09-10,Customer 148,Home Office,East,Chennai,Office Supplies,Paper,Paper 345,4,889.69,0.3,80.96
+ORD10362,2025-04-27,Customer 168,Home Office,East,Hyderabad,Technology,Phone,Phone 912,6,1242.14,0.2,390.57
+ORD10363,2025-09-01,Customer 108,Corporate,North,Noida,Office Supplies,Paper,Paper 407,8,913.67,0.0,286.4
+ORD10364,2025-11-14,Customer 9,Corporate,North,Noida,Furniture,Table,Table 658,4,142.99,0.2,40.52
+ORD10365,2025-03-03,Customer 56,Home Office,North,Delhi,Office Supplies,Paper,Paper 818,8,623.02,0.3,163.32
+ORD10366,2025-06-29,Customer 228,Home Office,East,Hyderabad,Furniture,Table,Table 377,6,1437.41,0.1,129.69
+ORD10367,2025-01-05,Customer 1,Consumer,South,Kochi,Office Supplies,Binder,Binder 997,4,1287.98,0.05,209.01
+ORD10368,2025-09-21,Customer 171,Corporate,East,Chennai,Office Supplies,Pen,Pen 928,5,1110.15,0.0,383.4
+ORD10369,2025-12-05,Customer 182,Home Office,West,Pune,Technology,Phone,Phone 177,6,677.26,0.1,100.6
+ORD10370,2025-12-16,Customer 31,Home Office,South,Bengaluru,Technology,Phone,Phone 605,6,1043.54,0.0,70.02
+ORD10371,2025-01-04,Customer 244,Corporate,South,Kochi,Office Supplies,Pen,Pen 255,8,71.96,0.1,13.29
+ORD10372,2025-11-25,Customer 72,Home Office,West,Mumbai,Technology,Monitor,Monitor 620,1,1496.6,0.05,402.9
+ORD10373,2025-12-30,Customer 93,Home Office,West,Pune,Technology,Laptop,Laptop 530,7,980.22,0.2,174.38
+ORD10374,2025-04-13,Customer 133,Consumer,North,Noida,Furniture,Bookcase,Bookcase 607,1,1194.62,0.1,368.08
+ORD10375,2025-07-16,Customer 199,Corporate,West,Pune,Technology,Monitor,Monitor 274,5,1363.23,0.3,148.99
+ORD10376,2025-05-14,Customer 93,Corporate,West,Pune,Office Supplies,Binder,Binder 302,6,1393.51,0.2,87.13
+ORD10377,2025-07-29,Customer 164,Consumer,North,Noida,Office Supplies,Binder,Binder 215,4,1390.19,0.3,215.58
+ORD10378,2025-05-21,Customer 101,Corporate,North,Delhi,Furniture,Table,Table 875,8,998.81,0.2,255.49
+ORD10379,2025-12-24,Customer 146,Corporate,South,Kochi,Technology,Laptop,Laptop 365,8,1161.62,0.0,243.54
+ORD10380,2025-12-31,Customer 29,Corporate,North,Noida,Office Supplies,Paper,Paper 171,2,1135.53,0.2,318.31
+ORD10381,2025-06-24,Customer 103,Corporate,West,Mumbai,Technology,Monitor,Monitor 860,2,1166.42,0.2,329.5
+ORD10382,2025-05-28,Customer 35,Consumer,South,Kochi,Office Supplies,Paper,Paper 829,3,807.05,0.3,116.29
+ORD10383,2025-07-26,Customer 55,Home Office,North,Delhi,Office Supplies,Paper,Paper 614,1,1280.86,0.05,279.67
+ORD10384,2025-11-29,Customer 98,Corporate,North,Delhi,Furniture,Chair,Chair 787,4,760.84,0.1,235.59
+ORD10385,2025-05-20,Customer 156,Consumer,West,Pune,Technology,Phone,Phone 829,2,1161.86,0.3,310.53
+ORD10386,2025-06-16,Customer 56,Consumer,West,Pune,Furniture,Table,Table 792,2,552.38,0.3,23.01
+ORD10387,2025-01-17,Customer 11,Home Office,South,Bengaluru,Office Supplies,Binder,Binder 615,1,1466.36,0.3,273.44
+ORD10388,2025-04-22,Customer 143,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 401,6,1447.78,0.3,275.85
+ORD10389,2025-05-21,Customer 186,Consumer,North,Delhi,Furniture,Chair,Chair 129,5,647.39,0.0,217.75
+ORD10390,2025-09-30,Customer 85,Home Office,East,Hyderabad,Office Supplies,Pen,Pen 702,7,354.9,0.0,103.37
+ORD10391,2025-06-24,Customer 158,Consumer,North,Delhi,Technology,Phone,Phone 689,3,658.37,0.3,102.97
+ORD10392,2025-04-12,Customer 203,Home Office,East,Hyderabad,Furniture,Table,Table 877,4,133.15,0.3,3.32
+ORD10393,2025-11-10,Customer 185,Consumer,West,Pune,Furniture,Bookcase,Bookcase 873,5,1126.52,0.0,367.23
+ORD10394,2025-06-11,Customer 91,Corporate,East,Hyderabad,Furniture,Table,Table 113,5,845.48,0.05,181.45
+ORD10395,2025-08-21,Customer 198,Consumer,East,Chennai,Technology,Laptop,Laptop 807,6,643.11,0.0,187.37
+ORD10396,2025-06-13,Customer 122,Consumer,North,Delhi,Furniture,Table,Table 896,8,739.31,0.0,239.18
+ORD10397,2025-04-09,Customer 182,Corporate,East,Hyderabad,Technology,Phone,Phone 314,6,392.87,0.0,130.14
+ORD10398,2025-09-30,Customer 98,Consumer,South,Kochi,Furniture,Table,Table 237,3,39.06,0.05,10.29
+ORD10399,2025-08-25,Customer 125,Home Office,East,Chennai,Office Supplies,Paper,Paper 308,2,1290.61,0.1,293.45
+ORD10400,2025-03-06,Customer 242,Consumer,West,Mumbai,Furniture,Chair,Chair 463,7,1323.28,0.0,300.87
+ORD10401,2025-01-28,Customer 221,Corporate,South,Kochi,Technology,Monitor,Monitor 751,8,1147.3,0.3,272.3
+ORD10402,2025-08-30,Customer 156,Consumer,West,Pune,Technology,Monitor,Monitor 982,4,1080.91,0.2,256.83
+ORD10403,2025-10-17,Customer 202,Home Office,East,Hyderabad,Technology,Phone,Phone 164,4,1203.97,0.05,55.95
+ORD10404,2025-04-23,Customer 199,Home Office,West,Mumbai,Furniture,Chair,Chair 304,1,76.34,0.0,13.02
+ORD10405,2025-12-30,Customer 25,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 257,8,46.97,0.0,13.05
+ORD10406,2025-01-02,Customer 19,Consumer,West,Mumbai,Technology,Monitor,Monitor 431,2,774.52,0.2,236.16
+ORD10407,2025-04-17,Customer 7,Consumer,East,Chennai,Technology,Laptop,Laptop 777,5,696.48,0.0,151.81
+ORD10408,2025-02-14,Customer 140,Home Office,South,Bengaluru,Furniture,Bookcase,Bookcase 765,4,1014.16,0.0,237.11
+ORD10409,2025-06-01,Customer 38,Corporate,North,Delhi,Furniture,Bookcase,Bookcase 344,2,152.88,0.1,20.0
+ORD10410,2025-07-17,Customer 117,Corporate,North,Delhi,Furniture,Chair,Chair 176,1,188.23,0.3,15.84
+ORD10411,2025-08-09,Customer 206,Consumer,West,Mumbai,Furniture,Chair,Chair 833,1,1011.78,0.05,303.53
+ORD10412,2025-01-15,Customer 84,Corporate,West,Pune,Office Supplies,Binder,Binder 823,3,393.92,0.1,115.77
+ORD10413,2025-05-08,Customer 4,Corporate,East,Chennai,Office Supplies,Paper,Paper 769,8,1148.25,0.1,140.38
+ORD10414,2025-02-10,Customer 137,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 465,6,22.56,0.05,7.04
+ORD10415,2025-08-23,Customer 42,Consumer,East,Chennai,Office Supplies,Binder,Binder 742,6,563.35,0.3,31.86
+ORD10416,2025-01-07,Customer 183,Corporate,East,Chennai,Office Supplies,Pen,Pen 806,2,978.74,0.05,128.43
+ORD10417,2025-05-08,Customer 88,Corporate,South,Bengaluru,Furniture,Bookcase,Bookcase 548,3,1042.14,0.1,277.15
+ORD10418,2025-02-05,Customer 154,Consumer,East,Chennai,Technology,Laptop,Laptop 756,5,935.06,0.3,58.54
+ORD10419,2025-03-14,Customer 143,Consumer,South,Kochi,Furniture,Chair,Chair 847,2,812.8,0.0,128.79
+ORD10420,2025-03-30,Customer 114,Home Office,South,Kochi,Office Supplies,Paper,Paper 202,5,468.68,0.2,112.03
+ORD10421,2025-04-17,Customer 206,Corporate,East,Hyderabad,Office Supplies,Binder,Binder 952,4,65.43,0.05,5.04
+ORD10422,2025-12-04,Customer 170,Home Office,North,Noida,Technology,Laptop,Laptop 965,4,127.52,0.0,12.42
+ORD10423,2025-11-30,Customer 23,Home Office,North,Noida,Furniture,Chair,Chair 247,8,163.71,0.0,27.0
+ORD10424,2025-07-01,Customer 94,Home Office,West,Mumbai,Furniture,Table,Table 115,5,1281.77,0.05,417.62
+ORD10425,2025-05-08,Customer 233,Consumer,West,Mumbai,Office Supplies,Pen,Pen 357,6,562.02,0.3,123.06
+ORD10426,2025-05-04,Customer 165,Corporate,North,Noida,Furniture,Chair,Chair 764,4,1332.2,0.2,380.93
+ORD10427,2025-08-30,Customer 113,Corporate,North,Delhi,Furniture,Chair,Chair 779,7,1257.91,0.05,162.97
+ORD10428,2025-03-30,Customer 233,Consumer,East,Chennai,Office Supplies,Pen,Pen 828,8,158.73,0.0,31.03
+ORD10429,2025-06-23,Customer 143,Consumer,South,Kochi,Furniture,Chair,Chair 295,2,413.81,0.2,70.66
+ORD10430,2025-05-03,Customer 134,Consumer,East,Chennai,Office Supplies,Pen,Pen 321,7,182.87,0.2,34.28
+ORD10431,2025-03-09,Customer 20,Corporate,North,Delhi,Furniture,Chair,Chair 588,5,713.35,0.2,189.41
+ORD10432,2025-04-03,Customer 131,Consumer,North,Delhi,Furniture,Table,Table 778,6,120.86,0.2,21.09
+ORD10433,2025-07-06,Customer 38,Corporate,East,Hyderabad,Technology,Monitor,Monitor 132,4,1163.39,0.3,71.89
+ORD10434,2025-02-11,Customer 116,Consumer,North,Delhi,Office Supplies,Pen,Pen 766,3,1055.65,0.0,242.15
+ORD10435,2025-02-03,Customer 103,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 959,4,470.58,0.1,101.17
+ORD10436,2025-09-09,Customer 173,Consumer,West,Mumbai,Office Supplies,Binder,Binder 338,2,726.04,0.3,200.37
+ORD10437,2025-04-01,Customer 88,Corporate,West,Mumbai,Office Supplies,Paper,Paper 417,8,421.05,0.1,20.85
+ORD10438,2025-09-01,Customer 144,Home Office,East,Hyderabad,Furniture,Chair,Chair 947,1,249.12,0.1,55.3
+ORD10439,2025-03-12,Customer 134,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 675,2,425.36,0.2,31.79
+ORD10440,2025-05-10,Customer 228,Home Office,North,Delhi,Furniture,Chair,Chair 532,3,138.73,0.2,37.04
+ORD10441,2025-02-23,Customer 248,Consumer,West,Mumbai,Technology,Phone,Phone 829,7,160.37,0.2,48.82
+ORD10442,2025-06-03,Customer 207,Home Office,North,Delhi,Office Supplies,Paper,Paper 991,3,641.73,0.3,85.38
+ORD10443,2025-02-08,Customer 152,Corporate,East,Hyderabad,Furniture,Table,Table 773,6,1350.18,0.3,105.05
+ORD10444,2025-02-07,Customer 180,Home Office,South,Bengaluru,Technology,Phone,Phone 758,4,629.82,0.3,61.24
+ORD10445,2025-12-30,Customer 245,Home Office,East,Hyderabad,Furniture,Bookcase,Bookcase 435,1,678.45,0.1,165.12
+ORD10446,2025-07-25,Customer 247,Consumer,West,Pune,Office Supplies,Paper,Paper 540,2,1437.7,0.05,298.7
+ORD10447,2025-04-24,Customer 164,Consumer,West,Pune,Technology,Monitor,Monitor 468,7,1001.74,0.1,78.41
+ORD10448,2025-08-21,Customer 242,Corporate,North,Delhi,Furniture,Bookcase,Bookcase 239,7,931.65,0.0,177.83
+ORD10449,2025-03-24,Customer 101,Corporate,North,Noida,Technology,Phone,Phone 422,3,1220.83,0.0,308.79
+ORD10450,2025-06-04,Customer 167,Corporate,East,Hyderabad,Technology,Monitor,Monitor 308,4,1063.24,0.05,165.61
+ORD10451,2025-07-31,Customer 186,Home Office,West,Mumbai,Technology,Phone,Phone 970,1,313.51,0.0,71.69
+ORD10452,2025-04-28,Customer 45,Corporate,North,Delhi,Furniture,Chair,Chair 957,3,146.95,0.05,6.79
+ORD10453,2025-02-07,Customer 134,Corporate,West,Mumbai,Furniture,Chair,Chair 184,2,1455.54,0.05,270.67
+ORD10454,2025-05-16,Customer 24,Consumer,North,Noida,Office Supplies,Pen,Pen 590,5,512.86,0.0,66.26
+ORD10455,2025-10-14,Customer 207,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 436,6,762.6,0.05,77.42
+ORD10456,2025-02-18,Customer 17,Home Office,West,Pune,Office Supplies,Binder,Binder 834,1,359.53,0.0,104.48
+ORD10457,2025-12-06,Customer 121,Home Office,West,Mumbai,Technology,Phone,Phone 923,8,1191.08,0.05,276.01
+ORD10458,2025-05-13,Customer 129,Corporate,South,Bengaluru,Furniture,Chair,Chair 696,4,179.69,0.2,18.38
+ORD10459,2025-12-20,Customer 117,Home Office,North,Delhi,Furniture,Chair,Chair 841,1,347.05,0.1,35.9
+ORD10460,2025-06-23,Customer 212,Home Office,West,Mumbai,Furniture,Table,Table 778,5,214.22,0.0,25.26
+ORD10461,2025-05-31,Customer 13,Corporate,North,Noida,Office Supplies,Pen,Pen 838,5,102.37,0.3,11.74
+ORD10462,2025-09-17,Customer 184,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 998,4,703.4,0.05,99.3
+ORD10463,2025-08-12,Customer 124,Consumer,North,Noida,Technology,Phone,Phone 894,2,177.2,0.0,42.02
+ORD10464,2025-07-10,Customer 137,Corporate,North,Delhi,Office Supplies,Binder,Binder 972,8,1408.33,0.2,367.71
+ORD10465,2025-08-27,Customer 176,Home Office,North,Delhi,Furniture,Table,Table 189,5,216.91,0.3,12.73
+ORD10466,2025-12-24,Customer 25,Home Office,East,Hyderabad,Technology,Laptop,Laptop 972,6,667.28,0.0,62.36
+ORD10467,2025-09-30,Customer 155,Corporate,East,Chennai,Office Supplies,Pen,Pen 238,2,1056.23,0.1,94.21
+ORD10468,2025-05-05,Customer 118,Home Office,West,Mumbai,Furniture,Table,Table 883,7,1067.7,0.1,82.19
+ORD10469,2025-05-28,Customer 195,Corporate,East,Chennai,Office Supplies,Pen,Pen 837,7,719.7,0.05,162.81
+ORD10470,2025-09-20,Customer 87,Consumer,South,Bengaluru,Technology,Laptop,Laptop 866,4,1374.96,0.2,85.39
+ORD10471,2025-03-30,Customer 187,Home Office,East,Hyderabad,Technology,Phone,Phone 933,3,1464.82,0.3,170.46
+ORD10472,2025-05-11,Customer 156,Consumer,North,Delhi,Technology,Phone,Phone 157,1,1297.33,0.3,159.76
+ORD10473,2025-06-30,Customer 101,Corporate,East,Hyderabad,Furniture,Table,Table 938,5,1425.42,0.1,217.23
+ORD10474,2025-05-06,Customer 210,Home Office,North,Delhi,Furniture,Chair,Chair 792,7,1139.31,0.3,281.04
+ORD10475,2025-10-04,Customer 183,Corporate,East,Chennai,Furniture,Table,Table 359,6,583.39,0.1,46.72
+ORD10476,2025-01-25,Customer 204,Home Office,East,Hyderabad,Furniture,Table,Table 999,3,1288.62,0.3,278.0
+ORD10477,2025-02-21,Customer 31,Corporate,South,Kochi,Office Supplies,Binder,Binder 901,4,1099.57,0.1,126.23
+ORD10478,2025-08-25,Customer 164,Corporate,East,Chennai,Furniture,Table,Table 172,2,756.85,0.0,82.9
+ORD10479,2025-06-09,Customer 190,Corporate,North,Noida,Office Supplies,Binder,Binder 753,8,491.42,0.1,127.83
+ORD10480,2025-07-05,Customer 139,Corporate,East,Chennai,Office Supplies,Binder,Binder 526,1,1323.08,0.05,142.07
+ORD10481,2025-02-17,Customer 48,Home Office,East,Chennai,Office Supplies,Pen,Pen 682,7,54.98,0.05,9.56
+ORD10482,2025-11-23,Customer 182,Consumer,North,Noida,Furniture,Chair,Chair 912,1,344.13,0.2,26.61
+ORD10483,2025-03-15,Customer 155,Corporate,South,Bengaluru,Office Supplies,Binder,Binder 436,3,747.08,0.3,17.37
+ORD10484,2025-01-29,Customer 54,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 664,2,1305.34,0.1,73.13
+ORD10485,2025-08-06,Customer 35,Home Office,East,Chennai,Technology,Phone,Phone 258,4,232.65,0.2,63.05
+ORD10486,2025-03-26,Customer 192,Consumer,North,Noida,Furniture,Table,Table 321,8,100.16,0.0,29.13
+ORD10487,2025-02-26,Customer 192,Corporate,North,Delhi,Technology,Laptop,Laptop 337,3,1358.13,0.05,458.79
+ORD10488,2025-02-05,Customer 230,Home Office,West,Pune,Office Supplies,Pen,Pen 153,8,1417.31,0.2,412.12
+ORD10489,2025-05-06,Customer 51,Consumer,South,Bengaluru,Office Supplies,Binder,Binder 275,4,1496.46,0.1,243.14
+ORD10490,2025-03-14,Customer 50,Home Office,West,Pune,Office Supplies,Pen,Pen 546,5,478.86,0.05,85.55
+ORD10491,2025-10-31,Customer 125,Corporate,North,Delhi,Technology,Phone,Phone 288,7,729.97,0.2,190.24
+ORD10492,2025-12-26,Customer 99,Consumer,North,Noida,Technology,Laptop,Laptop 583,3,760.26,0.05,50.93
+ORD10493,2025-08-27,Customer 222,Home Office,South,Bengaluru,Office Supplies,Pen,Pen 535,6,540.95,0.2,120.98
+ORD10494,2025-10-11,Customer 168,Home Office,East,Chennai,Technology,Phone,Phone 462,7,1429.06,0.3,156.43
+ORD10495,2025-04-23,Customer 88,Consumer,East,Chennai,Technology,Phone,Phone 794,7,1190.7,0.3,227.93
+ORD10496,2025-05-21,Customer 94,Home Office,South,Bengaluru,Office Supplies,Paper,Paper 239,1,932.25,0.2,151.25
+ORD10497,2025-05-11,Customer 100,Home Office,East,Hyderabad,Technology,Monitor,Monitor 910,6,965.97,0.2,62.67
+ORD10498,2025-06-20,Customer 74,Corporate,North,Delhi,Office Supplies,Binder,Binder 168,6,1219.4,0.3,28.78
+ORD10499,2025-04-27,Customer 57,Consumer,West,Pune,Furniture,Chair,Chair 297,4,108.03,0.05,9.62
+ORD10500,2025-02-15,Customer 198,Consumer,South,Kochi,Furniture,Bookcase,Bookcase 837,2,1421.47,0.3,263.33
+ORD10501,2025-06-04,Customer 10,Consumer,South,Bengaluru,Furniture,Bookcase,Bookcase 608,7,644.89,0.05,144.52
+ORD10502,2025-03-24,Customer 28,Consumer,East,Chennai,Furniture,Chair,Chair 122,6,1068.26,0.05,84.07
+ORD10503,2025-07-29,Customer 65,Corporate,West,Pune,Technology,Laptop,Laptop 469,2,1468.93,0.2,187.42
+ORD10504,2025-11-17,Customer 189,Home Office,West,Pune,Furniture,Bookcase,Bookcase 822,3,265.03,0.05,75.03
+ORD10505,2025-10-22,Customer 4,Corporate,East,Hyderabad,Technology,Monitor,Monitor 797,1,1179.12,0.3,303.36
+ORD10506,2025-10-15,Customer 133,Consumer,South,Bengaluru,Technology,Monitor,Monitor 445,7,776.81,0.05,235.24
+ORD10507,2025-07-05,Customer 107,Home Office,South,Bengaluru,Technology,Phone,Phone 260,1,760.46,0.3,229.36
+ORD10508,2025-11-11,Customer 42,Corporate,West,Pune,Technology,Monitor,Monitor 518,6,1440.72,0.3,430.32
+ORD10509,2025-10-14,Customer 68,Home Office,South,Bengaluru,Office Supplies,Paper,Paper 911,1,1486.36,0.1,201.38
+ORD10510,2025-01-24,Customer 39,Corporate,North,Delhi,Technology,Monitor,Monitor 600,5,1290.52,0.0,255.02
+ORD10511,2025-03-10,Customer 27,Corporate,East,Hyderabad,Office Supplies,Pen,Pen 619,7,1063.42,0.0,81.01
+ORD10512,2025-02-19,Customer 10,Corporate,North,Delhi,Technology,Phone,Phone 552,5,140.41,0.2,31.54
+ORD10513,2025-09-14,Customer 135,Corporate,North,Delhi,Furniture,Bookcase,Bookcase 364,5,1177.46,0.05,377.94
+ORD10514,2025-03-16,Customer 208,Home Office,North,Noida,Technology,Phone,Phone 510,8,1438.29,0.0,395.15
+ORD10515,2025-05-13,Customer 209,Home Office,North,Delhi,Technology,Monitor,Monitor 854,3,540.4,0.2,155.3
+ORD10516,2025-11-04,Customer 121,Home Office,East,Hyderabad,Office Supplies,Paper,Paper 188,2,1280.06,0.0,146.72
+ORD10517,2025-09-14,Customer 67,Corporate,East,Hyderabad,Office Supplies,Pen,Pen 289,3,974.91,0.0,237.41
+ORD10518,2025-11-10,Customer 78,Consumer,West,Mumbai,Furniture,Table,Table 978,4,390.27,0.0,45.41
+ORD10519,2025-04-29,Customer 168,Corporate,South,Kochi,Furniture,Chair,Chair 526,8,1212.28,0.0,331.46
+ORD10520,2025-03-12,Customer 231,Corporate,South,Bengaluru,Office Supplies,Paper,Paper 633,2,840.09,0.2,249.37
+ORD10521,2025-06-25,Customer 227,Consumer,South,Kochi,Office Supplies,Pen,Pen 476,2,839.97,0.3,99.58
+ORD10522,2025-04-02,Customer 81,Consumer,North,Noida,Furniture,Chair,Chair 610,5,1450.89,0.2,295.0
+ORD10523,2025-12-17,Customer 179,Corporate,North,Delhi,Office Supplies,Paper,Paper 391,8,951.63,0.3,241.14
+ORD10524,2025-05-31,Customer 249,Home Office,South,Bengaluru,Technology,Monitor,Monitor 785,3,553.31,0.3,42.67
+ORD10525,2025-05-02,Customer 172,Consumer,West,Mumbai,Office Supplies,Paper,Paper 314,2,324.54,0.3,71.0
+ORD10526,2025-05-24,Customer 81,Home Office,North,Delhi,Furniture,Bookcase,Bookcase 694,1,414.52,0.2,23.32
+ORD10527,2025-04-25,Customer 27,Consumer,East,Hyderabad,Office Supplies,Pen,Pen 703,3,39.34,0.05,13.43
+ORD10528,2025-12-24,Customer 7,Consumer,East,Hyderabad,Technology,Monitor,Monitor 627,6,1018.74,0.2,154.36
+ORD10529,2025-01-28,Customer 110,Home Office,South,Bengaluru,Technology,Phone,Phone 626,3,653.17,0.0,219.51
+ORD10530,2025-03-14,Customer 42,Consumer,South,Bengaluru,Office Supplies,Pen,Pen 474,3,551.32,0.1,64.24
+ORD10531,2025-02-19,Customer 144,Corporate,West,Mumbai,Furniture,Bookcase,Bookcase 915,2,256.85,0.3,48.84
+ORD10532,2025-01-03,Customer 62,Corporate,South,Kochi,Technology,Laptop,Laptop 844,1,369.54,0.05,42.88
+ORD10533,2025-12-10,Customer 214,Consumer,West,Mumbai,Office Supplies,Pen,Pen 496,7,516.57,0.0,60.28
+ORD10534,2025-02-15,Customer 87,Home Office,South,Bengaluru,Furniture,Bookcase,Bookcase 285,4,122.86,0.0,34.67
+ORD10535,2025-08-10,Customer 84,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 624,8,381.69,0.05,36.88
+ORD10536,2025-01-30,Customer 73,Home Office,South,Bengaluru,Technology,Laptop,Laptop 609,2,1484.96,0.05,431.56
+ORD10537,2025-04-18,Customer 111,Corporate,East,Hyderabad,Furniture,Chair,Chair 633,4,775.75,0.05,88.19
+ORD10538,2025-02-14,Customer 138,Home Office,South,Bengaluru,Furniture,Table,Table 103,4,999.56,0.0,109.47
+ORD10539,2025-08-09,Customer 18,Consumer,North,Noida,Office Supplies,Paper,Paper 372,6,349.43,0.2,54.15
+ORD10540,2025-12-15,Customer 126,Corporate,East,Chennai,Furniture,Bookcase,Bookcase 296,5,1381.52,0.0,227.58
+ORD10541,2025-08-31,Customer 33,Consumer,West,Mumbai,Technology,Phone,Phone 676,8,452.07,0.3,119.51
+ORD10542,2025-01-24,Customer 203,Home Office,East,Hyderabad,Office Supplies,Paper,Paper 775,1,1052.25,0.3,331.99
+ORD10543,2025-12-23,Customer 213,Corporate,East,Chennai,Office Supplies,Paper,Paper 155,4,882.84,0.1,127.48
+ORD10544,2025-08-09,Customer 222,Consumer,South,Kochi,Furniture,Table,Table 548,3,25.33,0.0,5.4
+ORD10545,2025-01-22,Customer 224,Corporate,West,Pune,Technology,Laptop,Laptop 217,7,156.1,0.05,7.19
+ORD10546,2025-06-09,Customer 133,Consumer,East,Hyderabad,Technology,Phone,Phone 967,8,1454.64,0.3,261.77
+ORD10547,2025-01-12,Customer 108,Corporate,South,Kochi,Furniture,Table,Table 463,4,936.9,0.3,54.91
+ORD10548,2025-09-22,Customer 122,Consumer,West,Mumbai,Technology,Phone,Phone 382,2,1159.67,0.2,306.51
+ORD10549,2025-12-16,Customer 55,Home Office,South,Kochi,Office Supplies,Binder,Binder 949,1,1231.47,0.2,155.42
+ORD10550,2025-04-17,Customer 212,Consumer,South,Kochi,Technology,Phone,Phone 565,6,147.57,0.1,38.37
+ORD10551,2025-07-29,Customer 9,Corporate,South,Kochi,Technology,Phone,Phone 810,1,423.73,0.0,64.63
+ORD10552,2025-07-09,Customer 51,Corporate,North,Delhi,Office Supplies,Binder,Binder 583,2,1085.08,0.05,207.57
+ORD10553,2025-03-21,Customer 81,Consumer,South,Bengaluru,Technology,Laptop,Laptop 447,7,1304.14,0.2,152.03
+ORD10554,2025-08-07,Customer 109,Consumer,West,Mumbai,Office Supplies,Binder,Binder 162,4,510.62,0.05,159.43
+ORD10555,2025-05-11,Customer 6,Corporate,West,Pune,Technology,Laptop,Laptop 214,5,670.51,0.2,220.31
+ORD10556,2025-12-14,Customer 9,Home Office,South,Bengaluru,Office Supplies,Paper,Paper 853,6,188.82,0.1,26.41
+ORD10557,2025-05-04,Customer 60,Corporate,West,Mumbai,Furniture,Bookcase,Bookcase 790,4,454.81,0.05,117.09
+ORD10558,2025-08-14,Customer 80,Corporate,North,Delhi,Furniture,Bookcase,Bookcase 433,2,774.85,0.0,93.92
+ORD10559,2025-10-28,Customer 62,Corporate,North,Delhi,Furniture,Chair,Chair 439,7,375.76,0.2,38.73
+ORD10560,2025-07-14,Customer 119,Consumer,East,Hyderabad,Office Supplies,Binder,Binder 894,8,712.35,0.0,47.24
+ORD10561,2025-02-16,Customer 80,Corporate,West,Pune,Technology,Phone,Phone 263,2,1468.81,0.2,457.76
+ORD10562,2025-08-22,Customer 75,Home Office,West,Mumbai,Furniture,Chair,Chair 193,3,566.02,0.2,86.66
+ORD10563,2025-04-18,Customer 57,Corporate,North,Noida,Technology,Laptop,Laptop 202,8,188.71,0.1,56.3
+ORD10564,2025-07-09,Customer 216,Consumer,North,Noida,Technology,Monitor,Monitor 672,5,440.3,0.0,103.66
+ORD10565,2025-07-04,Customer 57,Corporate,North,Noida,Furniture,Table,Table 790,2,521.16,0.2,19.18
+ORD10566,2025-12-27,Customer 118,Consumer,East,Chennai,Technology,Laptop,Laptop 780,8,553.85,0.1,60.82
+ORD10567,2025-08-30,Customer 206,Consumer,North,Delhi,Furniture,Table,Table 324,6,1029.83,0.0,205.05
+ORD10568,2025-11-10,Customer 198,Consumer,West,Mumbai,Technology,Laptop,Laptop 810,3,402.9,0.3,24.52
+ORD10569,2025-06-08,Customer 78,Home Office,North,Noida,Technology,Monitor,Monitor 237,8,1104.41,0.0,99.87
+ORD10570,2025-10-09,Customer 249,Consumer,West,Mumbai,Technology,Phone,Phone 860,6,858.69,0.1,161.5
+ORD10571,2025-05-17,Customer 207,Consumer,East,Chennai,Furniture,Bookcase,Bookcase 739,1,896.07,0.3,213.65
+ORD10572,2025-04-04,Customer 52,Corporate,West,Mumbai,Furniture,Bookcase,Bookcase 335,8,148.66,0.2,28.22
+ORD10573,2025-03-03,Customer 13,Consumer,North,Delhi,Furniture,Table,Table 481,2,1366.2,0.0,324.12
+ORD10574,2025-05-24,Customer 142,Consumer,North,Noida,Office Supplies,Pen,Pen 189,4,1484.91,0.2,313.13
+ORD10575,2025-10-05,Customer 119,Corporate,East,Hyderabad,Furniture,Table,Table 193,8,926.26,0.05,147.79
+ORD10576,2025-04-25,Customer 25,Consumer,South,Bengaluru,Furniture,Table,Table 377,4,217.14,0.1,34.49
+ORD10577,2025-03-23,Customer 89,Corporate,South,Kochi,Office Supplies,Pen,Pen 456,8,59.33,0.1,9.51
+ORD10578,2025-04-12,Customer 168,Home Office,South,Bengaluru,Technology,Laptop,Laptop 535,3,718.32,0.3,59.54
+ORD10579,2025-07-12,Customer 152,Home Office,West,Pune,Technology,Laptop,Laptop 370,5,535.93,0.0,104.36
+ORD10580,2025-11-04,Customer 145,Home Office,West,Pune,Office Supplies,Paper,Paper 993,5,395.81,0.05,83.37
+ORD10581,2025-08-12,Customer 214,Home Office,West,Mumbai,Office Supplies,Pen,Pen 983,2,1183.82,0.2,325.02
+ORD10582,2025-11-26,Customer 222,Corporate,South,Bengaluru,Furniture,Chair,Chair 521,3,774.15,0.05,108.63
+ORD10583,2025-08-14,Customer 166,Home Office,South,Kochi,Furniture,Chair,Chair 287,4,258.65,0.3,46.9
+ORD10584,2025-08-11,Customer 56,Corporate,South,Bengaluru,Furniture,Chair,Chair 554,1,1336.51,0.3,67.59
+ORD10585,2025-03-22,Customer 177,Corporate,West,Mumbai,Technology,Phone,Phone 480,2,730.31,0.0,251.43
+ORD10586,2025-01-26,Customer 51,Consumer,West,Pune,Technology,Monitor,Monitor 920,2,108.67,0.3,30.55
+ORD10587,2025-06-03,Customer 235,Corporate,West,Mumbai,Office Supplies,Binder,Binder 953,2,409.08,0.05,49.13
+ORD10588,2025-02-25,Customer 116,Home Office,West,Pune,Furniture,Bookcase,Bookcase 523,2,1136.45,0.0,95.84
+ORD10589,2025-10-01,Customer 101,Consumer,South,Bengaluru,Furniture,Chair,Chair 459,1,483.83,0.2,74.28
+ORD10590,2025-09-01,Customer 71,Consumer,North,Noida,Furniture,Bookcase,Bookcase 927,8,1021.64,0.3,256.0
+ORD10591,2025-10-13,Customer 131,Consumer,South,Kochi,Furniture,Bookcase,Bookcase 150,4,702.8,0.3,204.32
+ORD10592,2025-08-29,Customer 210,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 113,5,948.02,0.05,282.44
+ORD10593,2025-12-03,Customer 76,Consumer,North,Noida,Technology,Monitor,Monitor 845,4,231.22,0.2,52.49
+ORD10594,2025-02-10,Customer 74,Consumer,South,Kochi,Technology,Phone,Phone 632,4,518.35,0.05,30.87
+ORD10595,2025-06-03,Customer 7,Home Office,North,Noida,Technology,Monitor,Monitor 927,3,191.05,0.0,66.61
+ORD10596,2025-06-03,Customer 125,Corporate,North,Delhi,Technology,Phone,Phone 751,7,1344.8,0.0,278.15
+ORD10597,2025-10-12,Customer 72,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 489,4,496.22,0.2,73.42
+ORD10598,2025-03-20,Customer 155,Home Office,East,Hyderabad,Office Supplies,Paper,Paper 257,8,596.84,0.3,61.39
+ORD10599,2025-01-18,Customer 158,Corporate,West,Pune,Furniture,Table,Table 958,4,201.74,0.0,35.28
+ORD10600,2025-01-10,Customer 208,Corporate,North,Noida,Technology,Laptop,Laptop 204,2,619.52,0.3,145.44
+ORD10601,2025-02-16,Customer 142,Consumer,North,Delhi,Office Supplies,Paper,Paper 116,1,243.65,0.05,57.62
+ORD10602,2025-01-25,Customer 145,Home Office,East,Chennai,Office Supplies,Binder,Binder 551,5,887.24,0.1,258.96
+ORD10603,2025-04-21,Customer 151,Home Office,East,Hyderabad,Office Supplies,Pen,Pen 159,2,168.65,0.0,37.38
+ORD10604,2025-06-03,Customer 141,Corporate,North,Noida,Office Supplies,Paper,Paper 688,7,51.66,0.2,10.63
+ORD10605,2025-09-15,Customer 75,Home Office,East,Chennai,Technology,Phone,Phone 448,4,565.74,0.1,108.98
+ORD10606,2025-08-11,Customer 242,Corporate,North,Noida,Furniture,Table,Table 625,5,900.74,0.3,259.2
+ORD10607,2025-05-12,Customer 222,Home Office,North,Delhi,Furniture,Bookcase,Bookcase 763,3,1218.34,0.3,29.93
+ORD10608,2025-02-19,Customer 77,Home Office,West,Pune,Office Supplies,Pen,Pen 730,4,610.82,0.05,158.25
+ORD10609,2025-07-20,Customer 101,Home Office,East,Chennai,Office Supplies,Pen,Pen 765,7,83.83,0.05,27.87
+ORD10610,2025-07-22,Customer 49,Corporate,South,Bengaluru,Office Supplies,Pen,Pen 812,5,615.48,0.3,86.13
+ORD10611,2025-03-30,Customer 214,Corporate,West,Pune,Technology,Phone,Phone 137,2,376.17,0.0,99.49
+ORD10612,2025-12-09,Customer 46,Consumer,North,Noida,Office Supplies,Binder,Binder 419,6,1476.15,0.05,440.47
+ORD10613,2025-03-15,Customer 184,Home Office,East,Chennai,Technology,Monitor,Monitor 317,8,518.12,0.0,107.45
+ORD10614,2025-04-23,Customer 98,Corporate,West,Pune,Office Supplies,Binder,Binder 184,5,324.81,0.0,108.73
+ORD10615,2025-05-04,Customer 7,Home Office,East,Hyderabad,Technology,Phone,Phone 905,1,159.01,0.05,26.39
+ORD10616,2025-01-30,Customer 96,Home Office,East,Hyderabad,Technology,Phone,Phone 695,2,384.34,0.1,39.93
+ORD10617,2025-10-04,Customer 119,Corporate,East,Chennai,Technology,Laptop,Laptop 743,8,833.68,0.2,63.62
+ORD10618,2025-10-18,Customer 175,Corporate,North,Noida,Furniture,Chair,Chair 192,6,906.8,0.05,261.83
+ORD10619,2025-08-09,Customer 200,Home Office,East,Hyderabad,Technology,Laptop,Laptop 139,6,396.21,0.1,94.6
+ORD10620,2025-02-28,Customer 64,Home Office,South,Kochi,Office Supplies,Binder,Binder 877,6,1381.56,0.3,100.27
+ORD10621,2025-08-17,Customer 124,Consumer,West,Mumbai,Furniture,Chair,Chair 604,6,298.35,0.1,101.14
+ORD10622,2025-07-30,Customer 130,Consumer,West,Mumbai,Furniture,Table,Table 177,2,689.77,0.0,217.36
+ORD10623,2025-08-01,Customer 102,Consumer,South,Bengaluru,Furniture,Chair,Chair 700,7,371.95,0.1,85.22
+ORD10624,2025-01-14,Customer 25,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 906,7,319.8,0.1,107.46
+ORD10625,2025-07-16,Customer 161,Corporate,South,Kochi,Technology,Phone,Phone 482,2,887.09,0.3,101.73
+ORD10626,2025-02-22,Customer 128,Home Office,South,Bengaluru,Office Supplies,Pen,Pen 639,7,173.43,0.0,29.71
+ORD10627,2025-08-04,Customer 171,Home Office,South,Bengaluru,Furniture,Bookcase,Bookcase 713,8,1309.08,0.1,70.34
+ORD10628,2025-11-05,Customer 158,Consumer,North,Delhi,Office Supplies,Paper,Paper 459,8,580.75,0.1,132.76
+ORD10629,2025-12-04,Customer 8,Corporate,North,Noida,Technology,Laptop,Laptop 945,7,1372.0,0.3,356.3
+ORD10630,2025-05-29,Customer 243,Home Office,South,Bengaluru,Technology,Monitor,Monitor 589,5,958.7,0.3,32.15
+ORD10631,2025-11-28,Customer 43,Corporate,East,Chennai,Office Supplies,Pen,Pen 997,1,1152.46,0.05,62.54
+ORD10632,2025-02-21,Customer 64,Corporate,West,Pune,Furniture,Bookcase,Bookcase 821,6,929.52,0.05,307.98
+ORD10633,2025-09-10,Customer 14,Consumer,South,Kochi,Furniture,Table,Table 279,5,1404.54,0.0,292.65
+ORD10634,2025-03-10,Customer 239,Corporate,West,Mumbai,Office Supplies,Pen,Pen 797,2,503.09,0.0,48.67
+ORD10635,2025-03-20,Customer 208,Corporate,East,Chennai,Office Supplies,Pen,Pen 868,3,741.05,0.0,85.24
+ORD10636,2025-06-17,Customer 214,Consumer,West,Mumbai,Furniture,Table,Table 199,3,1164.27,0.3,314.06
+ORD10637,2025-05-09,Customer 155,Home Office,West,Pune,Technology,Monitor,Monitor 502,3,1276.28,0.3,197.06
+ORD10638,2025-03-04,Customer 52,Corporate,West,Mumbai,Technology,Phone,Phone 255,4,1048.13,0.0,264.09
+ORD10639,2025-10-04,Customer 41,Corporate,East,Hyderabad,Office Supplies,Paper,Paper 858,5,1381.65,0.2,375.69
+ORD10640,2025-12-08,Customer 103,Consumer,East,Chennai,Office Supplies,Binder,Binder 284,3,326.91,0.0,25.3
+ORD10641,2025-06-24,Customer 52,Consumer,West,Mumbai,Office Supplies,Pen,Pen 153,7,946.29,0.0,56.14
+ORD10642,2025-05-25,Customer 75,Home Office,South,Kochi,Office Supplies,Pen,Pen 470,3,1317.44,0.0,181.65
+ORD10643,2025-11-15,Customer 236,Consumer,East,Chennai,Office Supplies,Binder,Binder 555,5,297.67,0.2,36.05
+ORD10644,2025-04-29,Customer 129,Home Office,East,Hyderabad,Furniture,Bookcase,Bookcase 554,7,399.48,0.1,63.32
+ORD10645,2025-03-05,Customer 143,Home Office,West,Pune,Furniture,Chair,Chair 592,7,1257.02,0.1,192.11
+ORD10646,2025-08-28,Customer 74,Home Office,East,Hyderabad,Technology,Laptop,Laptop 415,7,782.14,0.1,107.42
+ORD10647,2025-10-02,Customer 210,Corporate,South,Bengaluru,Furniture,Table,Table 755,1,631.75,0.0,83.64
+ORD10648,2025-04-24,Customer 80,Corporate,North,Delhi,Office Supplies,Paper,Paper 579,7,1098.09,0.0,84.22
+ORD10649,2025-04-26,Customer 18,Corporate,West,Pune,Office Supplies,Pen,Pen 777,8,957.16,0.1,150.03
+ORD10650,2025-10-30,Customer 130,Home Office,East,Hyderabad,Office Supplies,Pen,Pen 459,7,956.47,0.05,312.52
+ORD10651,2025-10-16,Customer 131,Consumer,South,Kochi,Office Supplies,Binder,Binder 422,8,1102.37,0.0,378.98
+ORD10652,2025-06-02,Customer 114,Home Office,East,Chennai,Furniture,Table,Table 405,2,1336.05,0.05,259.88
+ORD10653,2025-09-28,Customer 210,Home Office,South,Bengaluru,Furniture,Bookcase,Bookcase 167,3,1007.97,0.0,165.41
+ORD10654,2025-02-10,Customer 125,Corporate,North,Noida,Furniture,Chair,Chair 666,6,988.41,0.05,81.34
+ORD10655,2025-08-28,Customer 47,Consumer,East,Hyderabad,Technology,Monitor,Monitor 385,6,679.61,0.05,85.02
+ORD10656,2025-07-05,Customer 173,Corporate,South,Kochi,Furniture,Bookcase,Bookcase 831,7,1148.54,0.0,123.11
+ORD10657,2025-08-16,Customer 177,Corporate,West,Mumbai,Technology,Phone,Phone 493,4,936.79,0.1,41.09
+ORD10658,2025-09-02,Customer 147,Corporate,North,Noida,Office Supplies,Paper,Paper 686,4,462.01,0.1,96.24
+ORD10659,2025-11-28,Customer 81,Corporate,South,Bengaluru,Furniture,Bookcase,Bookcase 998,1,892.01,0.2,195.45
+ORD10660,2025-04-22,Customer 84,Corporate,West,Pune,Technology,Monitor,Monitor 712,4,744.21,0.0,142.05
+ORD10661,2025-11-16,Customer 172,Consumer,East,Hyderabad,Office Supplies,Pen,Pen 804,3,961.94,0.2,260.2
+ORD10662,2025-02-19,Customer 76,Corporate,North,Noida,Technology,Laptop,Laptop 846,4,1482.08,0.2,196.96
+ORD10663,2025-02-19,Customer 78,Corporate,West,Mumbai,Furniture,Table,Table 849,5,192.82,0.3,12.4
+ORD10664,2025-04-28,Customer 83,Consumer,South,Kochi,Technology,Phone,Phone 390,6,397.29,0.0,46.35
+ORD10665,2025-05-20,Customer 36,Consumer,South,Kochi,Office Supplies,Paper,Paper 847,5,437.25,0.3,126.76
+ORD10666,2025-10-24,Customer 237,Corporate,North,Delhi,Technology,Phone,Phone 450,2,772.08,0.2,81.09
+ORD10667,2025-10-15,Customer 47,Corporate,South,Kochi,Office Supplies,Pen,Pen 629,1,528.41,0.3,136.0
+ORD10668,2025-01-18,Customer 51,Home Office,South,Kochi,Furniture,Chair,Chair 364,2,368.57,0.05,114.67
+ORD10669,2025-01-30,Customer 50,Home Office,West,Mumbai,Technology,Monitor,Monitor 954,8,538.81,0.2,76.53
+ORD10670,2025-06-28,Customer 31,Corporate,West,Pune,Technology,Phone,Phone 292,1,1072.33,0.0,81.13
+ORD10671,2025-10-26,Customer 196,Corporate,West,Mumbai,Technology,Laptop,Laptop 629,3,1294.28,0.05,176.05
+ORD10672,2025-09-09,Customer 229,Corporate,South,Bengaluru,Office Supplies,Binder,Binder 904,7,326.65,0.1,15.02
+ORD10673,2025-02-21,Customer 87,Consumer,West,Mumbai,Technology,Monitor,Monitor 220,8,1165.84,0.05,262.59
+ORD10674,2025-10-04,Customer 12,Corporate,East,Chennai,Technology,Monitor,Monitor 757,6,555.34,0.0,96.17
+ORD10675,2025-04-07,Customer 126,Consumer,South,Kochi,Office Supplies,Binder,Binder 931,6,465.71,0.3,125.38
+ORD10676,2025-02-12,Customer 136,Home Office,East,Chennai,Office Supplies,Pen,Pen 695,7,298.56,0.0,100.62
+ORD10677,2025-01-15,Customer 106,Home Office,East,Chennai,Furniture,Bookcase,Bookcase 599,8,1412.92,0.1,173.17
+ORD10678,2025-01-15,Customer 230,Home Office,North,Delhi,Office Supplies,Paper,Paper 572,4,1114.86,0.05,131.48
+ORD10679,2025-02-23,Customer 128,Home Office,North,Delhi,Office Supplies,Binder,Binder 470,1,663.42,0.0,133.89
+ORD10680,2025-03-09,Customer 129,Corporate,East,Hyderabad,Technology,Laptop,Laptop 604,8,278.93,0.3,39.38
+ORD10681,2025-09-19,Customer 137,Home Office,North,Noida,Furniture,Chair,Chair 218,8,1392.58,0.1,293.77
+ORD10682,2025-08-03,Customer 47,Consumer,West,Mumbai,Furniture,Chair,Chair 194,6,362.37,0.05,29.78
+ORD10683,2025-11-21,Customer 53,Consumer,East,Hyderabad,Office Supplies,Pen,Pen 814,4,1142.66,0.1,303.0
+ORD10684,2025-08-14,Customer 28,Consumer,South,Kochi,Furniture,Chair,Chair 452,4,1210.74,0.0,326.34
+ORD10685,2025-08-04,Customer 147,Consumer,North,Delhi,Technology,Monitor,Monitor 148,5,891.4,0.2,181.19
+ORD10686,2025-09-22,Customer 101,Consumer,West,Pune,Office Supplies,Pen,Pen 531,2,659.76,0.3,115.99
+ORD10687,2025-07-22,Customer 127,Corporate,South,Kochi,Office Supplies,Binder,Binder 723,2,672.09,0.1,172.36
+ORD10688,2025-05-27,Customer 223,Corporate,West,Mumbai,Office Supplies,Paper,Paper 344,1,243.97,0.0,80.92
+ORD10689,2025-03-01,Customer 60,Consumer,North,Delhi,Furniture,Bookcase,Bookcase 346,8,397.14,0.2,64.85
+ORD10690,2025-04-21,Customer 18,Home Office,North,Delhi,Office Supplies,Pen,Pen 937,8,1374.12,0.0,243.75
+ORD10691,2025-03-04,Customer 151,Consumer,South,Kochi,Technology,Laptop,Laptop 202,1,642.99,0.05,126.03
+ORD10692,2025-09-23,Customer 85,Home Office,South,Kochi,Furniture,Bookcase,Bookcase 432,2,670.61,0.05,176.65
+ORD10693,2025-09-14,Customer 88,Consumer,East,Hyderabad,Technology,Laptop,Laptop 213,5,627.43,0.3,45.52
+ORD10694,2025-09-21,Customer 69,Corporate,South,Bengaluru,Office Supplies,Pen,Pen 310,3,1298.23,0.3,266.8
+ORD10695,2025-03-26,Customer 151,Consumer,North,Noida,Technology,Laptop,Laptop 400,5,1057.77,0.05,335.78
+ORD10696,2025-09-01,Customer 102,Consumer,South,Bengaluru,Furniture,Bookcase,Bookcase 440,3,604.75,0.1,97.45
+ORD10697,2025-04-16,Customer 98,Corporate,North,Delhi,Office Supplies,Pen,Pen 356,3,1467.17,0.3,176.14
+ORD10698,2025-04-01,Customer 165,Corporate,West,Mumbai,Office Supplies,Pen,Pen 938,8,779.0,0.3,63.93
+ORD10699,2025-02-25,Customer 211,Corporate,North,Delhi,Technology,Monitor,Monitor 865,7,295.95,0.1,19.96
+ORD10700,2025-10-17,Customer 168,Home Office,South,Kochi,Technology,Laptop,Laptop 398,5,1185.13,0.0,307.46
+ORD10701,2025-10-27,Customer 222,Corporate,East,Chennai,Furniture,Chair,Chair 679,5,1301.3,0.0,385.99
+ORD10702,2025-03-02,Customer 102,Home Office,West,Mumbai,Office Supplies,Pen,Pen 871,6,692.49,0.1,80.9
+ORD10703,2025-12-16,Customer 83,Corporate,North,Noida,Technology,Laptop,Laptop 864,4,1428.92,0.3,304.2
+ORD10704,2025-04-06,Customer 168,Corporate,North,Noida,Technology,Laptop,Laptop 339,1,145.61,0.2,19.65
+ORD10705,2025-01-16,Customer 62,Corporate,North,Noida,Furniture,Bookcase,Bookcase 268,5,285.84,0.0,61.7
+ORD10706,2025-01-10,Customer 167,Corporate,South,Bengaluru,Technology,Monitor,Monitor 529,8,264.79,0.1,76.59
+ORD10707,2025-12-19,Customer 248,Consumer,West,Mumbai,Technology,Laptop,Laptop 900,3,210.66,0.1,60.22
+ORD10708,2025-08-17,Customer 104,Consumer,West,Pune,Technology,Laptop,Laptop 655,5,492.42,0.05,88.5
+ORD10709,2025-02-14,Customer 136,Corporate,West,Pune,Office Supplies,Paper,Paper 664,6,837.12,0.2,117.99
+ORD10710,2025-06-18,Customer 83,Corporate,South,Bengaluru,Technology,Monitor,Monitor 906,2,859.77,0.3,42.33
+ORD10711,2025-03-16,Customer 192,Corporate,East,Chennai,Furniture,Chair,Chair 822,7,1198.25,0.1,162.0
+ORD10712,2025-01-23,Customer 87,Corporate,East,Hyderabad,Office Supplies,Binder,Binder 767,3,1387.47,0.2,233.36
+ORD10713,2025-07-02,Customer 195,Home Office,North,Delhi,Technology,Phone,Phone 156,6,1072.62,0.3,151.36
+ORD10714,2025-08-09,Customer 11,Consumer,North,Noida,Office Supplies,Paper,Paper 172,5,950.05,0.05,229.97
+ORD10715,2025-03-13,Customer 245,Home Office,North,Delhi,Office Supplies,Pen,Pen 651,2,217.33,0.05,16.49
+ORD10716,2025-03-18,Customer 41,Home Office,South,Bengaluru,Furniture,Chair,Chair 330,1,1090.48,0.05,172.54
+ORD10717,2025-09-07,Customer 237,Consumer,South,Kochi,Office Supplies,Paper,Paper 956,4,1027.0,0.1,213.3
+ORD10718,2025-09-28,Customer 85,Home Office,North,Noida,Furniture,Bookcase,Bookcase 738,8,211.24,0.3,55.23
+ORD10719,2025-01-15,Customer 167,Corporate,East,Hyderabad,Technology,Monitor,Monitor 252,1,519.72,0.2,73.73
+ORD10720,2025-11-28,Customer 21,Corporate,East,Chennai,Office Supplies,Paper,Paper 190,7,496.4,0.1,117.38
+ORD10721,2025-02-08,Customer 106,Consumer,South,Kochi,Technology,Monitor,Monitor 652,6,739.91,0.05,216.64
+ORD10722,2025-06-24,Customer 6,Corporate,North,Delhi,Technology,Phone,Phone 782,4,1438.91,0.05,168.47
+ORD10723,2025-06-03,Customer 195,Home Office,North,Noida,Furniture,Chair,Chair 640,7,464.87,0.3,63.63
+ORD10724,2025-11-12,Customer 83,Consumer,West,Pune,Office Supplies,Binder,Binder 977,5,613.85,0.0,116.51
+ORD10725,2025-01-04,Customer 149,Corporate,East,Hyderabad,Furniture,Chair,Chair 377,6,1111.68,0.3,59.34
+ORD10726,2025-03-14,Customer 46,Consumer,North,Noida,Technology,Laptop,Laptop 964,6,508.79,0.1,144.9
+ORD10727,2025-04-21,Customer 105,Home Office,East,Hyderabad,Technology,Monitor,Monitor 421,4,1406.18,0.0,71.22
+ORD10728,2025-11-25,Customer 93,Consumer,North,Noida,Office Supplies,Pen,Pen 126,2,1420.37,0.1,353.48
+ORD10729,2025-01-26,Customer 149,Consumer,South,Kochi,Furniture,Table,Table 526,1,1417.32,0.1,63.62
+ORD10730,2025-03-15,Customer 246,Consumer,West,Pune,Furniture,Bookcase,Bookcase 446,2,807.92,0.1,116.76
+ORD10731,2025-08-31,Customer 172,Corporate,South,Kochi,Furniture,Chair,Chair 832,5,1404.56,0.1,469.69
+ORD10732,2025-07-29,Customer 106,Home Office,South,Bengaluru,Furniture,Chair,Chair 655,1,236.54,0.2,31.48
+ORD10733,2025-05-11,Customer 114,Home Office,North,Noida,Furniture,Chair,Chair 798,2,1239.87,0.3,73.84
+ORD10734,2025-05-02,Customer 62,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 966,6,493.58,0.0,88.57
+ORD10735,2025-10-27,Customer 29,Corporate,East,Hyderabad,Furniture,Chair,Chair 754,4,179.34,0.05,13.39
+ORD10736,2025-08-18,Customer 48,Home Office,South,Kochi,Office Supplies,Paper,Paper 914,7,717.06,0.05,101.97
+ORD10737,2025-07-09,Customer 219,Consumer,East,Chennai,Office Supplies,Pen,Pen 605,2,128.45,0.05,31.59
+ORD10738,2025-08-26,Customer 74,Home Office,East,Hyderabad,Office Supplies,Binder,Binder 486,3,921.88,0.2,164.86
+ORD10739,2025-09-11,Customer 112,Home Office,East,Chennai,Office Supplies,Binder,Binder 328,4,386.73,0.2,70.02
+ORD10740,2025-04-03,Customer 191,Corporate,West,Mumbai,Furniture,Table,Table 954,6,116.57,0.1,8.78
+ORD10741,2025-09-27,Customer 241,Home Office,South,Bengaluru,Office Supplies,Paper,Paper 693,1,791.54,0.05,42.04
+ORD10742,2025-05-15,Customer 52,Consumer,West,Mumbai,Office Supplies,Binder,Binder 433,4,549.55,0.3,42.76
+ORD10743,2025-02-25,Customer 7,Corporate,West,Pune,Technology,Monitor,Monitor 159,1,1005.72,0.0,234.2
+ORD10744,2025-12-11,Customer 183,Home Office,South,Kochi,Office Supplies,Paper,Paper 750,8,229.48,0.0,22.33
+ORD10745,2025-01-10,Customer 18,Consumer,South,Kochi,Technology,Phone,Phone 884,8,49.29,0.1,15.15
+ORD10746,2025-02-16,Customer 203,Consumer,South,Bengaluru,Technology,Phone,Phone 977,2,1187.72,0.2,324.04
+ORD10747,2025-06-16,Customer 156,Consumer,North,Delhi,Office Supplies,Paper,Paper 998,4,605.68,0.05,49.13
+ORD10748,2025-06-16,Customer 88,Corporate,South,Bengaluru,Technology,Monitor,Monitor 749,1,141.49,0.05,15.97
+ORD10749,2025-04-14,Customer 87,Corporate,East,Hyderabad,Office Supplies,Pen,Pen 231,8,314.8,0.1,61.71
+ORD10750,2025-07-28,Customer 239,Home Office,West,Pune,Technology,Laptop,Laptop 416,1,1275.42,0.2,257.6
+ORD10751,2025-02-14,Customer 188,Home Office,South,Bengaluru,Furniture,Chair,Chair 208,5,821.26,0.2,36.64
+ORD10752,2025-05-18,Customer 89,Consumer,East,Chennai,Furniture,Bookcase,Bookcase 228,4,938.8,0.2,139.34
+ORD10753,2025-04-27,Customer 124,Corporate,North,Noida,Furniture,Table,Table 370,8,107.47,0.1,11.33
+ORD10754,2025-11-24,Customer 34,Consumer,North,Delhi,Technology,Monitor,Monitor 911,3,128.8,0.05,34.18
+ORD10755,2025-05-14,Customer 176,Consumer,West,Pune,Furniture,Chair,Chair 655,5,561.12,0.05,106.67
+ORD10756,2025-06-08,Customer 189,Home Office,North,Delhi,Office Supplies,Binder,Binder 468,6,499.63,0.0,100.71
+ORD10757,2025-09-05,Customer 229,Consumer,South,Bengaluru,Technology,Laptop,Laptop 182,8,696.7,0.05,205.38
+ORD10758,2025-11-18,Customer 155,Home Office,East,Hyderabad,Technology,Laptop,Laptop 105,6,292.63,0.3,64.98
+ORD10759,2025-06-27,Customer 30,Consumer,South,Bengaluru,Technology,Laptop,Laptop 300,5,132.49,0.0,13.45
+ORD10760,2025-07-30,Customer 26,Corporate,South,Kochi,Furniture,Table,Table 514,2,1016.57,0.05,122.93
+ORD10761,2025-03-28,Customer 53,Consumer,West,Mumbai,Furniture,Table,Table 253,3,796.53,0.05,153.8
+ORD10762,2025-02-14,Customer 57,Consumer,West,Mumbai,Office Supplies,Paper,Paper 580,6,1047.61,0.1,248.12
+ORD10763,2025-10-29,Customer 108,Home Office,East,Chennai,Technology,Laptop,Laptop 688,2,175.44,0.1,19.67
+ORD10764,2025-10-03,Customer 233,Home Office,North,Noida,Technology,Phone,Phone 678,7,849.35,0.05,234.31
+ORD10765,2025-08-29,Customer 57,Home Office,East,Hyderabad,Furniture,Chair,Chair 268,7,670.49,0.05,116.8
+ORD10766,2025-05-16,Customer 182,Home Office,East,Hyderabad,Office Supplies,Binder,Binder 823,5,1092.75,0.2,295.02
+ORD10767,2025-06-07,Customer 77,Consumer,South,Bengaluru,Office Supplies,Binder,Binder 466,1,987.22,0.05,202.12
+ORD10768,2025-05-22,Customer 136,Corporate,South,Kochi,Furniture,Chair,Chair 275,8,677.08,0.1,124.18
+ORD10769,2025-06-13,Customer 83,Home Office,South,Bengaluru,Office Supplies,Paper,Paper 741,2,1455.81,0.1,123.87
+ORD10770,2025-06-19,Customer 99,Consumer,South,Kochi,Technology,Laptop,Laptop 252,3,1449.83,0.1,155.8
+ORD10771,2025-03-15,Customer 137,Home Office,South,Bengaluru,Technology,Monitor,Monitor 708,4,514.92,0.0,137.02
+ORD10772,2025-05-22,Customer 133,Consumer,East,Hyderabad,Office Supplies,Binder,Binder 758,8,439.78,0.3,57.46
+ORD10773,2025-02-08,Customer 107,Home Office,West,Pune,Office Supplies,Paper,Paper 598,2,1421.96,0.2,382.13
+ORD10774,2025-09-02,Customer 95,Corporate,North,Delhi,Furniture,Chair,Chair 465,8,1225.0,0.2,65.58
+ORD10775,2025-11-05,Customer 39,Consumer,West,Pune,Furniture,Chair,Chair 950,3,1053.37,0.05,228.74
+ORD10776,2025-11-09,Customer 73,Consumer,South,Kochi,Office Supplies,Paper,Paper 210,7,409.9,0.05,81.03
+ORD10777,2025-10-26,Customer 245,Corporate,North,Delhi,Office Supplies,Pen,Pen 268,4,973.8,0.3,169.1
+ORD10778,2025-08-26,Customer 18,Consumer,West,Pune,Furniture,Chair,Chair 314,6,477.25,0.0,155.93
+ORD10779,2025-04-21,Customer 228,Corporate,South,Kochi,Office Supplies,Paper,Paper 362,2,225.1,0.3,70.26
+ORD10780,2025-07-26,Customer 4,Home Office,West,Mumbai,Office Supplies,Binder,Binder 431,7,1182.84,0.05,107.6
+ORD10781,2025-01-25,Customer 83,Consumer,South,Bengaluru,Furniture,Chair,Chair 533,3,350.55,0.0,41.46
+ORD10782,2025-02-20,Customer 122,Home Office,East,Hyderabad,Technology,Phone,Phone 200,1,1233.47,0.05,255.1
+ORD10783,2025-05-01,Customer 68,Home Office,South,Kochi,Furniture,Table,Table 807,2,198.12,0.0,29.96
+ORD10784,2025-03-02,Customer 55,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 741,8,1435.48,0.05,322.56
+ORD10785,2025-05-15,Customer 147,Corporate,West,Mumbai,Technology,Laptop,Laptop 739,1,1437.93,0.0,491.51
+ORD10786,2025-09-17,Customer 133,Consumer,West,Mumbai,Furniture,Table,Table 344,1,288.47,0.05,66.1
+ORD10787,2025-07-13,Customer 140,Corporate,East,Chennai,Furniture,Chair,Chair 768,1,137.67,0.0,18.81
+ORD10788,2025-08-11,Customer 119,Home Office,North,Noida,Furniture,Bookcase,Bookcase 344,2,856.89,0.0,137.58
+ORD10789,2025-01-11,Customer 223,Home Office,South,Kochi,Furniture,Chair,Chair 696,6,882.4,0.0,232.86
+ORD10790,2025-05-12,Customer 34,Home Office,North,Noida,Technology,Monitor,Monitor 610,8,1369.73,0.0,187.13
+ORD10791,2025-12-14,Customer 241,Corporate,East,Chennai,Office Supplies,Binder,Binder 345,6,507.62,0.05,150.28
+ORD10792,2025-08-15,Customer 68,Home Office,West,Pune,Furniture,Bookcase,Bookcase 746,1,58.6,0.1,8.27
+ORD10793,2025-03-01,Customer 56,Home Office,North,Delhi,Office Supplies,Binder,Binder 335,2,1027.46,0.3,262.82
+ORD10794,2025-08-04,Customer 121,Consumer,North,Delhi,Office Supplies,Pen,Pen 761,8,1387.92,0.3,319.8
+ORD10795,2025-04-12,Customer 23,Home Office,North,Noida,Furniture,Table,Table 154,8,601.84,0.1,87.93
+ORD10796,2025-07-15,Customer 153,Consumer,East,Hyderabad,Office Supplies,Paper,Paper 880,3,149.18,0.0,24.17
+ORD10797,2025-12-14,Customer 232,Consumer,East,Chennai,Office Supplies,Binder,Binder 632,1,910.81,0.0,139.76
+ORD10798,2025-03-15,Customer 47,Home Office,West,Mumbai,Technology,Monitor,Monitor 926,2,417.61,0.2,55.3
+ORD10799,2025-06-17,Customer 47,Corporate,North,Delhi,Furniture,Chair,Chair 670,8,1316.69,0.0,306.11
+ORD10800,2025-10-25,Customer 139,Corporate,West,Pune,Technology,Laptop,Laptop 772,4,1359.02,0.0,98.75
+ORD10801,2025-03-15,Customer 127,Home Office,North,Noida,Furniture,Table,Table 820,3,1186.06,0.3,283.61
+ORD10802,2025-06-07,Customer 183,Home Office,North,Noida,Technology,Phone,Phone 826,4,700.95,0.1,221.22
+ORD10803,2025-09-02,Customer 249,Consumer,West,Mumbai,Furniture,Table,Table 595,6,993.84,0.0,277.06
+ORD10804,2025-12-27,Customer 244,Home Office,North,Noida,Furniture,Chair,Chair 197,8,240.46,0.1,13.09
+ORD10805,2025-06-08,Customer 75,Consumer,South,Kochi,Technology,Laptop,Laptop 634,3,128.66,0.2,8.83
+ORD10806,2025-09-18,Customer 233,Consumer,South,Kochi,Furniture,Table,Table 665,1,1020.0,0.2,42.67
+ORD10807,2025-12-01,Customer 69,Corporate,North,Delhi,Office Supplies,Paper,Paper 389,8,1210.99,0.05,274.27
+ORD10808,2025-09-08,Customer 112,Home Office,West,Pune,Furniture,Table,Table 478,6,841.41,0.3,189.89
+ORD10809,2025-04-25,Customer 206,Home Office,South,Bengaluru,Furniture,Table,Table 174,3,811.31,0.2,187.6
+ORD10810,2025-02-20,Customer 92,Corporate,East,Hyderabad,Furniture,Bookcase,Bookcase 815,6,429.34,0.3,34.7
+ORD10811,2025-11-04,Customer 220,Consumer,East,Chennai,Office Supplies,Paper,Paper 472,5,1285.09,0.0,341.87
+ORD10812,2025-06-17,Customer 55,Consumer,East,Chennai,Office Supplies,Binder,Binder 417,6,799.82,0.1,246.79
+ORD10813,2025-11-22,Customer 54,Consumer,East,Hyderabad,Furniture,Chair,Chair 837,6,760.57,0.0,82.53
+ORD10814,2025-11-19,Customer 203,Home Office,North,Delhi,Furniture,Table,Table 945,3,1422.08,0.05,297.58
+ORD10815,2025-02-01,Customer 119,Corporate,West,Pune,Furniture,Table,Table 592,4,450.2,0.3,16.99
+ORD10816,2025-10-11,Customer 71,Home Office,East,Chennai,Office Supplies,Binder,Binder 474,2,808.71,0.2,156.99
+ORD10817,2025-07-28,Customer 240,Consumer,South,Bengaluru,Furniture,Chair,Chair 642,2,1202.05,0.2,51.6
+ORD10818,2025-06-17,Customer 104,Home Office,East,Chennai,Office Supplies,Pen,Pen 531,2,1138.01,0.2,277.41
+ORD10819,2025-06-27,Customer 11,Corporate,North,Delhi,Technology,Laptop,Laptop 820,3,1175.99,0.1,115.26
+ORD10820,2025-12-09,Customer 126,Corporate,North,Delhi,Office Supplies,Binder,Binder 319,6,814.1,0.0,109.32
+ORD10821,2025-06-01,Customer 29,Corporate,North,Noida,Furniture,Table,Table 697,6,1083.39,0.2,169.61
+ORD10822,2025-04-04,Customer 119,Consumer,West,Pune,Furniture,Bookcase,Bookcase 287,6,366.06,0.05,104.29
+ORD10823,2025-02-16,Customer 218,Corporate,North,Delhi,Furniture,Bookcase,Bookcase 605,7,1302.57,0.3,198.35
+ORD10824,2025-07-11,Customer 80,Corporate,South,Kochi,Furniture,Bookcase,Bookcase 175,2,611.42,0.0,189.09
+ORD10825,2025-08-10,Customer 7,Consumer,North,Delhi,Furniture,Chair,Chair 166,4,1435.2,0.2,449.74
+ORD10826,2025-12-08,Customer 141,Corporate,West,Pune,Office Supplies,Pen,Pen 375,6,665.75,0.2,136.03
+ORD10827,2025-11-30,Customer 71,Consumer,North,Delhi,Furniture,Table,Table 991,7,870.54,0.1,250.89
+ORD10828,2025-09-25,Customer 195,Home Office,East,Chennai,Technology,Laptop,Laptop 668,6,103.95,0.05,19.86
+ORD10829,2025-03-12,Customer 9,Home Office,West,Pune,Furniture,Bookcase,Bookcase 412,4,1207.69,0.05,132.95
+ORD10830,2025-01-20,Customer 108,Home Office,East,Hyderabad,Office Supplies,Paper,Paper 626,8,493.67,0.2,119.02
+ORD10831,2025-12-03,Customer 216,Corporate,East,Hyderabad,Technology,Monitor,Monitor 997,6,86.38,0.05,23.91
+ORD10832,2025-01-12,Customer 214,Consumer,East,Chennai,Technology,Laptop,Laptop 237,3,1483.93,0.3,37.31
+ORD10833,2025-01-22,Customer 55,Corporate,West,Mumbai,Technology,Monitor,Monitor 546,3,39.48,0.2,11.48
+ORD10834,2025-12-26,Customer 117,Consumer,East,Chennai,Furniture,Table,Table 912,2,887.76,0.2,84.97
+ORD10835,2025-01-23,Customer 102,Corporate,South,Kochi,Technology,Laptop,Laptop 828,7,1426.7,0.1,257.67
+ORD10836,2025-11-15,Customer 206,Home Office,West,Pune,Office Supplies,Paper,Paper 220,3,520.54,0.0,132.04
+ORD10837,2025-11-06,Customer 25,Home Office,South,Kochi,Office Supplies,Binder,Binder 770,4,67.07,0.0,8.2
+ORD10838,2025-01-14,Customer 142,Corporate,West,Mumbai,Furniture,Bookcase,Bookcase 330,2,218.34,0.2,58.28
+ORD10839,2025-08-15,Customer 238,Home Office,East,Hyderabad,Office Supplies,Paper,Paper 521,3,1041.21,0.0,295.56
+ORD10840,2025-08-28,Customer 207,Consumer,East,Hyderabad,Office Supplies,Binder,Binder 199,2,800.03,0.3,60.01
+ORD10841,2025-06-04,Customer 213,Corporate,South,Bengaluru,Office Supplies,Paper,Paper 311,6,923.83,0.05,165.96
+ORD10842,2025-12-06,Customer 192,Corporate,South,Bengaluru,Office Supplies,Binder,Binder 328,8,663.96,0.2,91.97
+ORD10843,2025-02-17,Customer 53,Corporate,East,Chennai,Office Supplies,Binder,Binder 905,5,1439.12,0.05,466.37
+ORD10844,2025-06-06,Customer 49,Corporate,West,Mumbai,Technology,Laptop,Laptop 142,5,1378.26,0.1,127.22
+ORD10845,2025-08-17,Customer 80,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 632,1,978.84,0.0,285.11
+ORD10846,2025-08-28,Customer 196,Home Office,West,Mumbai,Office Supplies,Paper,Paper 187,3,112.57,0.2,4.66
+ORD10847,2025-12-08,Customer 39,Consumer,East,Hyderabad,Furniture,Bookcase,Bookcase 926,7,410.68,0.0,85.89
+ORD10848,2025-03-08,Customer 52,Consumer,South,Bengaluru,Furniture,Table,Table 846,6,1370.96,0.3,42.82
+ORD10849,2025-06-10,Customer 22,Home Office,East,Chennai,Furniture,Chair,Chair 870,5,30.39,0.0,3.46
+ORD10850,2025-03-29,Customer 127,Consumer,South,Bengaluru,Office Supplies,Binder,Binder 856,2,749.49,0.3,204.65
+ORD10851,2025-01-13,Customer 84,Consumer,West,Mumbai,Furniture,Chair,Chair 428,2,345.76,0.05,50.21
+ORD10852,2025-07-27,Customer 152,Home Office,North,Noida,Furniture,Table,Table 967,5,771.39,0.05,248.5
+ORD10853,2025-02-12,Customer 85,Consumer,North,Delhi,Furniture,Table,Table 934,1,241.03,0.3,24.12
+ORD10854,2025-10-29,Customer 180,Corporate,South,Kochi,Technology,Monitor,Monitor 892,2,1492.51,0.05,183.4
+ORD10855,2025-05-18,Customer 69,Home Office,South,Bengaluru,Furniture,Chair,Chair 577,6,1126.05,0.0,304.73
+ORD10856,2025-10-12,Customer 160,Corporate,East,Chennai,Technology,Monitor,Monitor 607,8,1012.66,0.1,194.88
+ORD10857,2025-02-06,Customer 206,Corporate,East,Chennai,Office Supplies,Paper,Paper 411,5,1072.86,0.2,316.05
+ORD10858,2025-09-27,Customer 172,Corporate,West,Mumbai,Technology,Monitor,Monitor 299,8,603.88,0.1,128.01
+ORD10859,2025-09-19,Customer 164,Home Office,South,Bengaluru,Office Supplies,Binder,Binder 964,3,1272.22,0.1,313.69
+ORD10860,2025-05-11,Customer 117,Consumer,West,Mumbai,Office Supplies,Binder,Binder 547,4,538.1,0.0,39.42
+ORD10861,2025-08-19,Customer 171,Home Office,East,Hyderabad,Technology,Phone,Phone 988,3,400.54,0.2,56.68
+ORD10862,2025-05-08,Customer 144,Home Office,North,Delhi,Furniture,Chair,Chair 104,5,631.8,0.0,187.76
+ORD10863,2025-06-24,Customer 59,Consumer,West,Pune,Technology,Laptop,Laptop 843,1,1185.09,0.3,110.56
+ORD10864,2025-10-13,Customer 12,Consumer,North,Noida,Technology,Laptop,Laptop 237,2,376.31,0.2,20.33
+ORD10865,2025-10-22,Customer 14,Home Office,South,Bengaluru,Office Supplies,Pen,Pen 231,6,1128.95,0.1,299.86
+ORD10866,2025-10-29,Customer 130,Consumer,South,Kochi,Office Supplies,Binder,Binder 772,7,1282.73,0.0,134.18
+ORD10867,2025-07-23,Customer 84,Corporate,North,Noida,Technology,Phone,Phone 789,2,176.87,0.1,37.45
+ORD10868,2025-05-04,Customer 33,Home Office,West,Pune,Office Supplies,Binder,Binder 381,3,962.02,0.3,264.37
+ORD10869,2025-01-08,Customer 154,Corporate,North,Delhi,Technology,Phone,Phone 394,5,759.79,0.05,83.63
+ORD10870,2025-11-01,Customer 11,Home Office,South,Bengaluru,Furniture,Bookcase,Bookcase 438,2,223.16,0.0,69.5
+ORD10871,2025-03-03,Customer 245,Corporate,South,Bengaluru,Technology,Monitor,Monitor 407,2,1233.67,0.0,236.26
+ORD10872,2025-06-01,Customer 173,Corporate,West,Mumbai,Technology,Laptop,Laptop 699,2,647.65,0.05,175.0
+ORD10873,2025-09-21,Customer 54,Home Office,West,Pune,Office Supplies,Paper,Paper 495,3,110.13,0.3,27.95
+ORD10874,2025-03-18,Customer 54,Home Office,South,Kochi,Office Supplies,Paper,Paper 628,4,697.47,0.2,129.9
+ORD10875,2025-03-03,Customer 191,Corporate,East,Hyderabad,Technology,Monitor,Monitor 568,1,783.2,0.0,198.94
+ORD10876,2025-06-09,Customer 96,Home Office,South,Kochi,Office Supplies,Binder,Binder 320,8,1441.31,0.2,474.7
+ORD10877,2025-06-13,Customer 178,Consumer,North,Delhi,Technology,Phone,Phone 951,7,793.14,0.0,230.9
+ORD10878,2025-09-15,Customer 197,Corporate,South,Kochi,Office Supplies,Binder,Binder 470,8,1146.06,0.2,341.82
+ORD10879,2025-09-10,Customer 34,Home Office,West,Pune,Furniture,Chair,Chair 157,4,488.57,0.05,119.5
+ORD10880,2025-04-18,Customer 194,Home Office,South,Bengaluru,Furniture,Table,Table 802,1,505.53,0.0,151.4
+ORD10881,2025-01-27,Customer 21,Corporate,North,Noida,Furniture,Bookcase,Bookcase 514,3,22.46,0.0,4.82
+ORD10882,2025-03-22,Customer 47,Consumer,South,Bengaluru,Technology,Monitor,Monitor 759,2,1160.47,0.05,312.35
+ORD10883,2025-02-14,Customer 74,Consumer,West,Mumbai,Furniture,Bookcase,Bookcase 841,2,334.1,0.05,18.85
+ORD10884,2025-01-01,Customer 140,Corporate,East,Chennai,Technology,Laptop,Laptop 188,7,939.87,0.1,65.4
+ORD10885,2025-12-19,Customer 55,Home Office,North,Delhi,Furniture,Chair,Chair 663,3,770.39,0.05,121.74
+ORD10886,2025-10-03,Customer 184,Home Office,East,Chennai,Furniture,Bookcase,Bookcase 893,1,895.44,0.1,78.44
+ORD10887,2025-10-17,Customer 93,Home Office,East,Chennai,Office Supplies,Paper,Paper 585,6,1047.99,0.0,103.89
+ORD10888,2025-04-07,Customer 141,Corporate,West,Pune,Technology,Monitor,Monitor 628,8,1157.88,0.2,369.48
+ORD10889,2025-08-22,Customer 58,Home Office,South,Bengaluru,Office Supplies,Binder,Binder 130,4,1290.1,0.05,400.77
+ORD10890,2025-12-27,Customer 156,Corporate,West,Mumbai,Technology,Laptop,Laptop 862,2,1176.04,0.2,194.92
+ORD10891,2025-10-10,Customer 146,Home Office,East,Hyderabad,Furniture,Chair,Chair 684,3,618.93,0.1,147.91
+ORD10892,2025-12-08,Customer 154,Corporate,West,Mumbai,Technology,Monitor,Monitor 711,3,300.73,0.0,38.98
+ORD10893,2025-06-12,Customer 137,Consumer,South,Kochi,Technology,Phone,Phone 191,5,1166.92,0.0,393.91
+ORD10894,2025-03-01,Customer 163,Home Office,North,Noida,Technology,Monitor,Monitor 184,2,1349.55,0.3,348.98
+ORD10895,2025-10-13,Customer 47,Corporate,North,Delhi,Furniture,Chair,Chair 324,7,231.41,0.1,74.29
+ORD10896,2025-06-03,Customer 148,Home Office,South,Bengaluru,Furniture,Table,Table 162,1,191.21,0.05,15.17
+ORD10897,2025-10-24,Customer 123,Home Office,North,Delhi,Furniture,Bookcase,Bookcase 213,4,1021.44,0.2,43.19
+ORD10898,2025-07-21,Customer 29,Consumer,North,Delhi,Technology,Laptop,Laptop 180,2,892.33,0.3,274.98
+ORD10899,2025-10-10,Customer 97,Consumer,North,Noida,Technology,Laptop,Laptop 718,8,399.72,0.2,47.9
+ORD10900,2025-07-23,Customer 189,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 208,7,1231.16,0.3,302.95
+ORD10901,2025-03-31,Customer 80,Corporate,South,Bengaluru,Technology,Monitor,Monitor 304,4,933.24,0.0,205.44
+ORD10902,2025-01-15,Customer 9,Consumer,East,Chennai,Furniture,Chair,Chair 458,2,1412.53,0.2,399.13
+ORD10903,2025-08-03,Customer 46,Home Office,North,Noida,Furniture,Chair,Chair 185,1,794.2,0.3,140.8
+ORD10904,2025-08-28,Customer 160,Consumer,North,Delhi,Office Supplies,Paper,Paper 939,6,1441.98,0.2,452.85
+ORD10905,2025-09-05,Customer 145,Home Office,West,Mumbai,Technology,Phone,Phone 900,3,1391.21,0.2,192.9
+ORD10906,2025-06-23,Customer 68,Corporate,South,Kochi,Furniture,Chair,Chair 677,5,324.05,0.0,55.21
+ORD10907,2025-07-31,Customer 160,Corporate,West,Pune,Office Supplies,Pen,Pen 249,6,312.3,0.2,40.71
+ORD10908,2025-08-11,Customer 93,Consumer,East,Chennai,Furniture,Bookcase,Bookcase 570,1,154.38,0.2,37.73
+ORD10909,2025-10-26,Customer 27,Corporate,North,Delhi,Technology,Laptop,Laptop 340,6,1389.56,0.0,296.73
+ORD10910,2025-06-24,Customer 178,Consumer,South,Kochi,Furniture,Bookcase,Bookcase 460,7,794.53,0.1,77.67
+ORD10911,2025-03-01,Customer 117,Home Office,West,Pune,Office Supplies,Binder,Binder 611,2,639.48,0.0,162.38
+ORD10912,2025-01-22,Customer 112,Consumer,South,Kochi,Furniture,Chair,Chair 813,6,788.27,0.05,180.92
+ORD10913,2025-06-18,Customer 5,Consumer,North,Noida,Office Supplies,Paper,Paper 241,5,1175.86,0.1,165.63
+ORD10914,2025-01-26,Customer 195,Corporate,East,Hyderabad,Technology,Phone,Phone 204,4,1017.39,0.05,291.79
+ORD10915,2025-02-18,Customer 74,Consumer,South,Bengaluru,Furniture,Chair,Chair 554,4,640.78,0.3,124.92
+ORD10916,2025-08-27,Customer 153,Home Office,East,Hyderabad,Furniture,Chair,Chair 558,4,1049.83,0.05,142.71
+ORD10917,2025-04-01,Customer 111,Consumer,West,Mumbai,Office Supplies,Pen,Pen 104,1,1328.23,0.0,122.02
+ORD10918,2025-05-21,Customer 236,Corporate,East,Hyderabad,Furniture,Bookcase,Bookcase 709,8,1462.09,0.1,210.06
+ORD10919,2025-03-19,Customer 21,Home Office,East,Chennai,Technology,Monitor,Monitor 624,4,1123.84,0.3,143.02
+ORD10920,2025-07-03,Customer 159,Home Office,North,Noida,Office Supplies,Paper,Paper 109,2,412.14,0.1,58.59
+ORD10921,2025-06-02,Customer 197,Home Office,South,Kochi,Office Supplies,Pen,Pen 542,4,549.01,0.0,173.11
+ORD10922,2025-02-02,Customer 185,Home Office,West,Mumbai,Furniture,Chair,Chair 801,5,1168.94,0.1,208.21
+ORD10923,2025-09-24,Customer 76,Consumer,North,Delhi,Office Supplies,Paper,Paper 544,5,983.7,0.3,64.27
+ORD10924,2025-05-19,Customer 134,Consumer,East,Chennai,Office Supplies,Binder,Binder 117,3,211.31,0.0,26.41
+ORD10925,2025-10-11,Customer 131,Corporate,West,Pune,Furniture,Table,Table 137,8,1444.38,0.0,245.54
+ORD10926,2025-08-01,Customer 203,Home Office,West,Mumbai,Technology,Phone,Phone 219,3,1237.01,0.1,148.93
+ORD10927,2025-06-25,Customer 147,Home Office,South,Bengaluru,Technology,Laptop,Laptop 901,1,495.13,0.3,14.81
+ORD10928,2025-07-15,Customer 215,Corporate,North,Noida,Office Supplies,Pen,Pen 805,1,566.66,0.3,119.83
+ORD10929,2025-03-19,Customer 106,Consumer,North,Noida,Office Supplies,Pen,Pen 767,8,248.6,0.05,48.7
+ORD10930,2025-08-24,Customer 82,Consumer,North,Noida,Technology,Monitor,Monitor 937,2,450.71,0.05,99.66
+ORD10931,2025-10-17,Customer 83,Home Office,East,Chennai,Technology,Phone,Phone 765,3,277.68,0.2,19.67
+ORD10932,2025-06-08,Customer 240,Corporate,North,Delhi,Office Supplies,Pen,Pen 785,2,637.73,0.2,121.99
+ORD10933,2025-08-21,Customer 185,Corporate,North,Delhi,Furniture,Table,Table 765,1,754.18,0.05,134.87
+ORD10934,2025-07-20,Customer 239,Home Office,North,Delhi,Furniture,Table,Table 808,4,948.11,0.0,130.89
+ORD10935,2025-03-08,Customer 94,Consumer,North,Noida,Office Supplies,Paper,Paper 691,1,571.58,0.05,194.23
+ORD10936,2025-02-06,Customer 174,Consumer,South,Bengaluru,Technology,Phone,Phone 960,5,885.13,0.3,252.85
+ORD10937,2025-12-29,Customer 248,Home Office,East,Chennai,Office Supplies,Binder,Binder 595,3,230.11,0.05,35.45
+ORD10938,2025-03-13,Customer 235,Consumer,East,Hyderabad,Technology,Monitor,Monitor 235,8,923.53,0.0,291.39
+ORD10939,2025-06-14,Customer 82,Consumer,West,Mumbai,Furniture,Bookcase,Bookcase 733,5,53.85,0.1,14.99
+ORD10940,2025-07-21,Customer 94,Consumer,North,Delhi,Technology,Monitor,Monitor 402,6,889.27,0.05,256.62
+ORD10941,2025-08-29,Customer 57,Consumer,West,Pune,Technology,Phone,Phone 581,5,1214.63,0.05,412.67
+ORD10942,2025-09-30,Customer 246,Corporate,South,Kochi,Office Supplies,Pen,Pen 921,6,1137.6,0.05,364.88
+ORD10943,2025-06-07,Customer 118,Corporate,West,Mumbai,Office Supplies,Pen,Pen 417,6,1169.86,0.05,401.19
+ORD10944,2025-10-18,Customer 195,Home Office,East,Hyderabad,Furniture,Bookcase,Bookcase 913,6,742.51,0.0,71.76
+ORD10945,2025-04-18,Customer 97,Home Office,South,Bengaluru,Office Supplies,Binder,Binder 421,8,863.2,0.2,112.6
+ORD10946,2025-11-06,Customer 147,Consumer,South,Bengaluru,Technology,Monitor,Monitor 896,2,584.17,0.1,173.91
+ORD10947,2025-03-02,Customer 50,Home Office,North,Delhi,Technology,Laptop,Laptop 470,7,1083.86,0.2,169.46
+ORD10948,2025-09-07,Customer 161,Consumer,West,Mumbai,Technology,Phone,Phone 573,6,1185.7,0.2,188.12
+ORD10949,2025-09-10,Customer 150,Home Office,West,Mumbai,Furniture,Table,Table 730,6,465.1,0.05,72.5
+ORD10950,2025-12-06,Customer 99,Corporate,East,Hyderabad,Furniture,Chair,Chair 417,1,796.82,0.05,234.38
+ORD10951,2025-06-25,Customer 40,Corporate,South,Kochi,Office Supplies,Pen,Pen 951,4,556.9,0.2,64.94
+ORD10952,2025-07-15,Customer 232,Corporate,West,Mumbai,Furniture,Chair,Chair 909,5,1411.78,0.05,433.73
+ORD10953,2025-07-02,Customer 181,Home Office,West,Pune,Furniture,Bookcase,Bookcase 757,8,1103.38,0.05,373.32
+ORD10954,2025-07-04,Customer 242,Home Office,North,Delhi,Furniture,Bookcase,Bookcase 153,6,1086.72,0.3,263.01
+ORD10955,2025-10-08,Customer 173,Corporate,West,Pune,Furniture,Chair,Chair 699,2,836.26,0.3,120.74
+ORD10956,2025-01-05,Customer 212,Home Office,East,Hyderabad,Technology,Monitor,Monitor 517,6,1362.78,0.2,284.71
+ORD10957,2025-02-24,Customer 78,Corporate,West,Pune,Technology,Laptop,Laptop 591,4,479.66,0.1,34.54
+ORD10958,2025-12-09,Customer 137,Consumer,North,Delhi,Office Supplies,Binder,Binder 165,6,131.29,0.1,19.19
+ORD10959,2025-06-21,Customer 17,Corporate,North,Delhi,Office Supplies,Pen,Pen 610,2,218.12,0.0,31.86
+ORD10960,2025-01-18,Customer 233,Home Office,West,Mumbai,Furniture,Table,Table 519,1,1399.65,0.1,424.49
+ORD10961,2025-10-16,Customer 174,Home Office,South,Kochi,Technology,Monitor,Monitor 771,8,1485.99,0.1,457.01
+ORD10962,2025-04-07,Customer 167,Corporate,North,Noida,Office Supplies,Binder,Binder 990,7,1354.12,0.0,211.83
+ORD10963,2025-05-03,Customer 166,Home Office,West,Pune,Furniture,Bookcase,Bookcase 710,4,191.01,0.2,42.58
+ORD10964,2025-08-23,Customer 185,Consumer,West,Pune,Furniture,Bookcase,Bookcase 410,6,1435.51,0.1,227.06
+ORD10965,2025-10-24,Customer 14,Consumer,South,Kochi,Furniture,Table,Table 640,4,1152.03,0.1,227.27
+ORD10966,2025-05-08,Customer 127,Corporate,South,Kochi,Technology,Phone,Phone 607,5,440.7,0.0,150.3
+ORD10967,2025-02-22,Customer 224,Home Office,East,Chennai,Furniture,Bookcase,Bookcase 201,8,1132.36,0.2,173.75
+ORD10968,2025-05-10,Customer 115,Home Office,North,Delhi,Technology,Monitor,Monitor 190,8,1310.4,0.0,387.31
+ORD10969,2025-03-01,Customer 190,Consumer,East,Chennai,Furniture,Chair,Chair 558,3,153.62,0.0,33.33
+ORD10970,2025-03-31,Customer 250,Home Office,East,Chennai,Office Supplies,Paper,Paper 802,7,344.86,0.0,27.62
+ORD10971,2025-01-30,Customer 2,Consumer,North,Noida,Office Supplies,Binder,Binder 618,1,1292.75,0.1,193.41
+ORD10972,2025-12-13,Customer 124,Consumer,South,Bengaluru,Office Supplies,Paper,Paper 218,6,941.98,0.0,86.74
+ORD10973,2025-02-20,Customer 9,Corporate,East,Hyderabad,Office Supplies,Paper,Paper 624,8,1276.07,0.2,57.61
+ORD10974,2025-08-11,Customer 133,Consumer,West,Mumbai,Furniture,Table,Table 314,6,993.42,0.05,250.63
+ORD10975,2025-03-10,Customer 153,Consumer,North,Noida,Office Supplies,Paper,Paper 530,5,902.32,0.1,56.41
+ORD10976,2025-03-01,Customer 187,Corporate,North,Noida,Office Supplies,Paper,Paper 429,5,1416.8,0.2,278.54
+ORD10977,2025-02-24,Customer 81,Corporate,East,Hyderabad,Furniture,Chair,Chair 921,2,609.57,0.1,123.89
+ORD10978,2025-06-27,Customer 229,Home Office,South,Bengaluru,Technology,Phone,Phone 121,3,1372.62,0.3,256.52
+ORD10979,2025-05-23,Customer 33,Home Office,North,Delhi,Furniture,Bookcase,Bookcase 407,1,978.08,0.05,227.54
+ORD10980,2025-09-06,Customer 153,Home Office,East,Hyderabad,Furniture,Bookcase,Bookcase 193,5,1351.35,0.3,140.11
+ORD10981,2025-01-23,Customer 237,Consumer,South,Bengaluru,Office Supplies,Pen,Pen 589,5,1327.77,0.3,243.87
+ORD10982,2025-02-09,Customer 115,Home Office,East,Hyderabad,Furniture,Chair,Chair 758,6,255.25,0.0,75.77
+ORD10983,2025-08-22,Customer 176,Consumer,East,Chennai,Technology,Laptop,Laptop 852,2,1082.22,0.1,107.05
+ORD10984,2025-12-23,Customer 167,Consumer,West,Mumbai,Technology,Monitor,Monitor 836,5,720.25,0.3,217.16
+ORD10985,2025-10-09,Customer 122,Home Office,North,Noida,Technology,Laptop,Laptop 474,2,266.52,0.2,84.17
+ORD10986,2025-09-28,Customer 165,Consumer,East,Hyderabad,Technology,Laptop,Laptop 318,7,1404.94,0.0,132.54
+ORD10987,2025-06-21,Customer 100,Consumer,West,Pune,Technology,Laptop,Laptop 734,8,606.58,0.3,135.85
+ORD10988,2025-01-27,Customer 109,Consumer,South,Kochi,Furniture,Chair,Chair 734,8,1075.56,0.2,177.96
+ORD10989,2025-09-26,Customer 130,Consumer,South,Kochi,Furniture,Table,Table 245,2,403.89,0.1,79.29
+ORD10990,2025-05-22,Customer 105,Consumer,North,Delhi,Technology,Laptop,Laptop 818,8,212.88,0.0,49.57
+ORD10991,2025-12-22,Customer 25,Consumer,North,Delhi,Furniture,Table,Table 174,6,638.31,0.1,175.33
+ORD10992,2025-09-28,Customer 236,Consumer,South,Kochi,Furniture,Chair,Chair 457,1,564.27,0.3,89.38
+ORD10993,2025-12-25,Customer 175,Home Office,South,Kochi,Office Supplies,Pen,Pen 831,8,635.37,0.05,173.99
+ORD10994,2025-06-10,Customer 173,Home Office,West,Mumbai,Furniture,Bookcase,Bookcase 806,3,1214.0,0.1,316.44
+ORD10995,2025-04-04,Customer 56,Corporate,East,Hyderabad,Office Supplies,Binder,Binder 437,5,1211.52,0.2,84.03
+ORD10996,2025-11-25,Customer 205,Home Office,West,Mumbai,Furniture,Table,Table 113,1,1209.15,0.3,200.39
+ORD10997,2025-11-02,Customer 38,Corporate,East,Hyderabad,Office Supplies,Paper,Paper 892,3,840.02,0.1,67.75
+ORD10998,2025-05-23,Customer 198,Corporate,North,Noida,Furniture,Bookcase,Bookcase 304,7,541.66,0.2,140.17
+ORD10999,2025-11-12,Customer 104,Home Office,North,Delhi,Office Supplies,Pen,Pen 786,2,897.67,0.2,208.41
+ORD11000,2025-04-10,Customer 37,Consumer,South,Kochi,Furniture,Bookcase,Bookcase 947,2,1426.83,0.1,459.97
