@@ -117,7 +117,7 @@ Analyzed sales and order trends across different dates and time periods.
 
 ## Files
 
-- `[Dashboard.png](https://github.com/vishnupriyasiva01-VP/Tableau-Sales-Project/blob/main/Tableau%20Dashboard.png)` – Tableau dashboard preview
+- <a href="[https://github.com/vishnupriyasiva01-VP/PowerBI-Retail-Dashboard/blob/main/Retail_Sales_Dashboard_Practice_Dataset%20(1).xlsx](https://github.com/vishnupriyasiva01-VP/Tableau-Sales-Project/blob/main/Tableau%20Dashboard.png)">Dataset</a>
 - `[Tableau_Project.twbx](https://github.com/vishnupriyasiva01-VP/Tableau-Sales-Project/blob/main/Overall%20Charts%2CDashboard.twbx)` – Tableau packaged workbook
 - `https://github.com/vishnupriyasiva01-VP/Tableau-Sales-Project/blob/main/Sample_Superstore.csv` – Dataset used for analysis
 
